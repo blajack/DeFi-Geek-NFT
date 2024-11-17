@@ -1,6 +1,3 @@
-# DeFi Geeks NFT
-
-![Image](https://i.postimg.cc/ncBNvG5K/3.jpg)
 
 <div style="text-align: center;">
   <img src="https://i.postimg.cc/ncBNvG5K/3.jpg" style="margin: 0 auto; width:80%; height:auto;" alt="Image">
@@ -47,7 +44,10 @@
 
 Атрибуты каждой NFT указаны на ее странице под самим изображением:
 
-![Image](https://i.postimg.cc/VNfj7zNs/NFT-atributs.jpg)
+<div style="text-align: center;">
+  <img src="https://i.postimg.cc/VNfj7zNs/NFT-atributs.jpg" style="margin: 0 auto;" alt="Атрибуты NFT">
+</div>
+
 
 У этой NFT атрибуты: Glitch Garland, Cosmic Fusion, Phantom Punisher, Particled Tracksuit, Peakara.
 
