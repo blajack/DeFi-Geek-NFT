@@ -1,8 +1,18 @@
 // Подключаем оригинальные стили темы
 @import "{{ site.theme }}";
 
+// Переопределяем ширину контейнера
 .container-lg {
-    max-width: 800px !important;
+    max-width: 800px !important; /* Установи нужную ширину */
     margin-right: auto;
     margin-left: auto;
+}
+
+// Дополнительные стили для других возможных контейнеров (если есть)
+.container-lg.px-3.my-5.markdown-body {
+    max-width: 800px !important;
+}
+
+.bj_add {
+    max-width: 800px !important;
 }
