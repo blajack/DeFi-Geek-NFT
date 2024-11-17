@@ -19,8 +19,24 @@
 ![Image](https://i.postimg.cc/GtxmZRkP/YT.jpg)
 
 
-|   Видео 1: [Знакомства и роли](https://youtu.be/s6S_VWan3sQ)    |   Видео 2: [Атрибуты NFT](https://youtu.be/0yUOt1LdksI)    |   Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)    |     
-|  :----:       |    :----:   |       :----: |
+Видео 1: [Знакомства и роли](https://youtu.be/s6S_VWan3sQ)       
+Видео 2: [Атрибуты NFT](https://youtu.be/0yUOt1LdksI)       
+Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
+
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td style="border: 0px; padding: 10px;">
+      Видео 1: <a href="https://youtu.be/s6S_VWan3sQ" target="_blank">Знакомства и роли</a>
+    </td>
+    <td style="border: 0px; padding: 10px;">
+      Видео 2: <a href="https://youtu.be/0yUOt1LdksI" target="_blank">Атрибуты NFT</a>
+    </td>
+    <td style="border: 0px; padding: 10px;">
+      Видео 3: <a href="https://youtu.be/F2qTOG68bpM" target="_blank">Airdrop</a>
+    </td>
+  </tr>
+</table>
 
 
 
