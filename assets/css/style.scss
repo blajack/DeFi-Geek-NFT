@@ -2,7 +2,7 @@
 @import "{{ site.theme }}";
 
 // Переопределяем ширину контейнера
-.container-lg.container-lg {
+.container-lg {
     max-width: 800px !important;
     margin-right: auto;
     margin-left: auto;
