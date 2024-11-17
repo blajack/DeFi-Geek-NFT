@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="https://i.postimg.cc/ncBNvG5K/3.jpg" style="margin: 0 auto; width:80%; height:auto;" alt="Image">
+  <img src="https://i.postimg.cc/ncBNvG5K/3.jpg" style="margin: 0 auto; width:90%; height:auto;" alt="Image">
 </div>
 
 Коллекция [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и вторая [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) дают владельцу полный доступ к русскоязычному [Discord-серверу](https://discord.gg/Rk7VVUbHWX), основанному ютуб-блогером [Defi Geek](https://www.youtube.com/@defigeek), в сообществе его называют DeFi Geek или Главный Гик.
