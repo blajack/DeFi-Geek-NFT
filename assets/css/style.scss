@@ -1,7 +1,7 @@
 // Подключаем оригинальные стили темы
 @import "{{ site.theme }}";
 
-.container-lg.px-3.my-5.markdown-body {
+.container-lg {
     max-width: 800px !important;
     margin-right: auto;
     margin-left: auto;
