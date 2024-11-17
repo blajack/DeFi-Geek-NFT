@@ -61,90 +61,83 @@
 
 
 # Список атрибутов
-[Airdrop Cap](#drop-harvester)
-
-[Alien Starborn Planet](#reanimator)
-
-[Atom](#atom-master)
-
-[Antenna](#linker)
-
-[Bluffing Cap](#cosmic-gambler)
-
-[Brain Tubes](#looter)
-
-[Broken Nebular Transmitter](#linker)
-
-[Celestial Disk](#cosmoleaser)
-
-[Celestia](#tia-master)
-
-[Cigarette](#diplomat)
-
-[Cosmic Pump Potion](#alchemist)
-
-[Crown](#crypto-tzar)
-
-[Cyber Nerve](#nodelord)
-
-[DeFi Geek Master](#currency-master)
-
-[Defi Puppet](#briber)
-
-[Donation Jar](#orbital-survivor)
-
-[Emerald Pendant](#luckystrike)
-
-[Exoplanetary Devastation](#destroyer)
-
-[Focusers](#scanner)
-
-[Galactic Impulse](#upgrader)
-
-[Galactic Lore](#librarian)
-
-[Galactic Navigator](#navigator)
-
-[Gold Brain Tubes](#looter)
-
-[Gravity Trap](#trapper)
-
-[Headsmoke](#mindsmoker)
-
-[Holographic Essence](#predictor)
-
-[Link Controller](#linker)
-
-[Luminous Red Diamond](#luckystrike) 
-
-[Mystical Relic](#headhunter)
-
-[Nebular Transmitter](#linker)
-
-[Nimb](#angel)
-
-[Phantom Punisher](#punisher)
-
-[Portal](#portal-jumper)
-
-[ReFi Harmony Plant](#mimic)
-
-[Scarf](#currency-master)
-
-[Solar Shields](#protector)
-
-[Tatoo Stars](#stargazer)
-
-[Thin Brain Tubes](#looter)
-
-[Time Swapper](#timelooper)
-
-[Vaporiffic Outfit](#ghostwalker)
+- [Airdrop Cap](#drop-harvester)
+- [Alien Starborn Planet](#reanimator)
+- [Atom](#atom-master)
+- [Antenna](#linker)
+- [Bluffing Cap](#cosmic-gambler)
+- [Brain Tubes](#looter)
+- [Broken Nebular Transmitter](#linker)
+- [Celestial Disk](#cosmoleaser)
+- [Celestia](#tia-master)
+- [Cigarette](#diplomat)
+- [Cosmic Pump Potion](#alchemist)
+- [Crown](#crypto-tzar)
+- [Cyber Nerve](#nodelord)
+- [DeFi Geek Master](#currency-master)
+- [Defi Puppet](#briber)
+- [Donation Jar](#orbital-survivor)
+- [Emerald Pendant](#luckystrike)
+- [Exoplanetary Devastation](#destroyer)
+- [Focusers](#scanner)
+- [Galactic Impulse](#upgrader)
+- [Galactic Lore](#librarian)
+- [Galactic Navigator](#navigator)
+- [Gold Brain Tubes](#looter)
+- [Gravity Trap](#trapper)
+- [Headsmoke](#mindsmoker)
+- [Holographic Essence](#predictor)
+- [Link Controller](#linker)
+- [Luminous Red Diamond](#luckystrike) 
+- [Mystical Relic](#headhunter)
+- [Nebular Transmitter](#linker)
+- [Nimb](#angel)
+- [Phantom Punisher](#punisher)
+- [Portal](#portal-jumper)
+- [ReFi Harmony Plant](#mimic)
+- [Scarf](#currency-master)
+- [Solar Shields](#protector)
+- [Tatoo Stars](#stargazer)
+- [Thin Brain Tubes](#looter)
+- [Time Swapper](#timelooper)
+- [Vaporiffic Outfit](#ghostwalker)
 
 
 # Список ролей
 На сервере у каждого участника может быть несколько ролей. Роли присуждаются в зависимости от атрибутов NFT или от активности участника на сервере (выдается Главным Гиком).
 
+- [Alchemist](#alchemist)
+- [Angel](#angel)
+- [Briber](#briber)
+- [Cosmic Gambler](#cosmic-gambler)
+- [Cosmoleaser](#cosmoleaser)
+- [Crypto Tzar](#crypto-tzar)
+- [Currency Master](#currency-master)
+- [Diplomat](#diplomat)
+- [Destroyer](#destroyer)
+- [Drop Harvester](#drop-harvester)
+- [Headhunter](#headhunter)
+- [Librarian](#librarian)
+- [Linker](#linker)
+- [Luckystrike](#luckystrike)
+- [Looter](#looter)
+- [Mindsmoker](#mindsmoker)
+- [Mimic](#mimic)
+- [Navigator](#navigator)
+- [Nodelord](#nodelord)
+- [Orbital Survivor](#orbital-survivor)
+- [Phantom Punisher](#punisher)
+- [Portal Jumper](#portal-jumper)
+- [Predictor](#predictor)
+- [Protector](#protector)
+- [Punisher](#punisher)
+- [Reanimator](#reanimator)
+- [Scanner](#scanner)
+- [Stargazer](#stargazer)
+- [Tia Master](#tia-master)
+- [Timelooper](#timelooper)
+- [Trapper](#trapper)
+- [Upgrader](#upgrader)
 
 # Alchemist
 Активируется атрибутом: Cosmic Pump Potion
@@ -168,7 +161,7 @@
 
 **Как выиграть: **Для получения аллокации на Eclipse нужно дважды выиграть: один раз в нашем розыгрыше, второй &ndash; в распределении на платформе Eclipse. Если вам повезёт оба раза, нужно будет перевести DeFi Geek'у ~10-25 USDC для выкупа токенов. Вам не придётся проходить KYC и замораживать средства &ndash; за вас это сделал Главный Гик.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Angel
@@ -177,7 +170,7 @@
 
 Поддерживает новые коллекции NFT и получает вознаграждения за это, в зависимости от вложенных усилий. Для владельцев есть отдельная ветка на сервере "#2-collection".
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Atom-master
@@ -186,7 +179,7 @@
 
 Если этот гик выигрывает в лотерее, то увеличивает вознаграждение за ATOM в 5 раз. Его ближайший коллега [**Tia-master**](#tia-master).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Briber
@@ -195,7 +188,7 @@
 
 Участвует в рекламных интеграциях на сервере и является союзником [**Destroyer**](#destroyer), избегая его способностей. Он обсуждает и согласовывает рекламные интеграции и, если они одобрены главным администратором, получает 10% от их стоимости.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Cosmic Gambler
@@ -204,7 +197,7 @@
 
 При победе в покерных турнирах увеличивает приз, также дает дополнительные бонусы в играх.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Cosmoleaser
@@ -216,7 +209,7 @@
 
 Так же у Главного Гика есть коллекция NFT которые можно использовать в различных сервисах. Большая часть этих NFT пылится без дела, и эта роль может взять их на какое-то время.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Crypto-tzar
@@ -227,7 +220,7 @@
 
 **Crypto-tzar** обладает правом требовать &laquo;десятину&raquo; &mdash; 10% от выигрыша тех, кто побеждает. Этот персонаж хитёр и независим, поэтому забирает свою часть выигрыша без колебаний. Механика действует только среди владельцев атрибута Crown, и на остальных участников сервера она не распространяется.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Currency Master
@@ -238,7 +231,7 @@
 
 Занимается привлечением новичков и обустройством их на сервере, за это претендуют на часть доходов от продаж [NFT DeFI Geek Member Gen1.](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) Один из них становится победителем через розыгрыш и получает свой приз. При этом их вознаграждения выплачиваются в Atom, что также радует владельцев роли [**Crypto-tzar**](#crypto-tzar), который получает свою &laquo;десятину&raquo;.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Destroyer
@@ -249,7 +242,7 @@
 
 Такая разрушительная сила не сможет срабатывать два месяца подряд. Если он выигрывает в следующем месяце снова, то получает только приз.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Diplomat
@@ -260,7 +253,7 @@
 
 В лотерее может получать 50% от аллокации в IDO, для этого нужно сперва выигарать билелет на сервере и этот же билет должен выиграть в само IDO. Вознаграждение будет отправлено в несколко этапов.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Drop Harvester
@@ -269,7 +262,7 @@
 
 Главный Гик сделал специальный кошелек с дроп-портфелем, который претендует на различные дропы за эти токены. В случае получения дропов на этот аккаунт он имеет право на часть дропа.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Gen1 member
@@ -285,7 +278,7 @@
 **Золотистые (Uncommon): 900 штук**Дают дополнительную роль **Solaris**. - в случае выигрыша в лотерее приз увеличивается в 1,5 раза. - есть возможность обменять NFT на 10% кешбек на минт NFT из коллекции [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Покупку нужно согласовать заранее.- дают 50% скидку на VPN.
 **Редкие (Rare): 100 штук**Дают дополнительную роль **Indigo**.- в случае выигрыша в лотерее приз увеличивается в 2,5 раза. - есть возможность обменять NFT на 20% кешбек на минт NFT из коллекции [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Покупку нужно согласовать заранее.- бесплатный VPN
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Ghostwalker
@@ -294,7 +287,7 @@
 
 Самая редкая и самая желанная роль. Владелец этой NFT может иметь любое количество NFT из обоих коллекций на своем кошельке, тем самым получая получая их способности. Получает доступ ко всем чатам и веткам сервера.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Headhunter
@@ -303,7 +296,7 @@
 
 Получает вознаграждение за привлечение пользователей на [Discord-сервер](https://discord.gg/b9N3Nsey) (подробности на сервере в ветке #headhunter).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Linker
@@ -312,7 +305,7 @@
 
 Увеличивает лимит VPN до 60 ГБ и возможность выигрывать часть прибыли с продаж VPN-сервиса.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Librarian
@@ -323,7 +316,7 @@
 
 При выигрыше в главном гиве может пойти на созвон с Главным Гиком и обсудить любые вопросы тет-а-тет.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Looter
@@ -332,7 +325,7 @@
 
 Эта роль получает доступ ко всем атрибутам, которые есть у других Гиков NFT на голове, но только в том случае, если в лотерее победил [Destroyer](#destroyer).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Luckystrike
@@ -341,7 +334,7 @@
 
 Усиливает шансы в лотереях. Он получает 2 дополнительных тикета (билета) для участия в любых розыгрышах.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Mindsmoker
@@ -353,7 +346,7 @@
 
 У роли есть своя "карма". Перед получение WL Главный Гик уточнит, планируете ли вы минтить данную коллекцию. Если вы подтвердили и выполнили - получаете плюс в карму, если нет - минус. Чем больше карма - тем ближе в очереди на получение WL в следующий раз.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Mimic
@@ -366,7 +359,7 @@
 
 Эффект длится ровно год. По истечении этого срока можно снова выбрать новый атрибут или оставить текущий. Если он решает выбрать новый, то предыдущий скопированный атрибут исчезает.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Navigator
@@ -375,7 +368,7 @@
 
 Вскрытие роли произойдет после окончания минта новой коллекции Defi Geeks Survivers.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Nodelord
@@ -384,7 +377,7 @@
 
 Связан с нодами.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Orbital Survivor
@@ -395,7 +388,7 @@
 
 Роль также получает призы, которые остались не востребованы. Например, если кто-то выиграл приз, но не забрал его вовремя, этот приз переходит к владельцу этой роли.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Portal Jumper
@@ -404,7 +397,7 @@
 
 Получает бесплатные минты при запуске NFT Главным Гиком вне Stargaze.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Predictor
@@ -415,7 +408,7 @@
 
 Кроме того, если аккаунт Главного Гика выигрывает билет в IDO, который в полном объеме ему принадлежит, то **Predictor** может выкупить 25% этого выигрыша. Подробнее про IDO у [**Alchemist**](#alchemist), они тоже претендуют на этот куш.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Protector
@@ -424,7 +417,7 @@
 
 Обладает защитой от ловушек [**Trapper**](#trapper) и разрушений от [**Destroyer**](#destroyer). Может бесплатно воспользоваться услугами Белого Хакера в случае взлома кошелька.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Punisher
@@ -433,7 +426,7 @@
 
 При победе в лотерее отнимает награды у [**Gen1 member**](#gen1-member).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Reanimator
@@ -442,7 +435,7 @@
 
 Если в лотереи побеждает [**Destroyer**](#destroyer), то получает доступ ко всем атрибутам которые другие Гики NFT держат в руках и их аксессуарам (за исключением атрибута [Defi Puppet](#briber)).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Scanner
@@ -451,7 +444,7 @@
 
 Может видеть ловушки, расставленные [**Trapper**](#trapper), и избегать их.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Stargazer
@@ -460,7 +453,7 @@
 
 Периодически получает возможность выиграть процент с продаж на Stargaze. Такой розыгрыш происходит редко и не пересекается с ежемесячными лотереями.
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Tia-master
@@ -469,7 +462,7 @@
 
 Если этот гик выигрывает в лотерее , то увеличивает вознаграждение за TIA в 3 раза. Его ближайший коллега [**Atom-master**](#atom-master).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Timelooper
@@ -478,7 +471,7 @@
 
 При победе в главной лотерее позволяет перезапустить ее снова. При этом призы победителей передидущей сохраняются у всех. Так же перезапускается лотерея для владельцев [**Gen1 member**](#gen1-member).
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Trapper
@@ -496,7 +489,7 @@
 Его ловушки не срабатывают на [**Predictor**](#predictor), [**Protector**](#protector) и [**Scanner**](#scanner).
 
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
 
 
 # Upgrader
@@ -511,4 +504,4 @@
 
 Роль будет обновляться
 
-[[вверх](#список-атрибутов)]
+[[вверх](#список-ролей)]
