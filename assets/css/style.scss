@@ -1,9 +1,9 @@
 // Подключаем оригинальные стили темы
 @import "{{ site.theme }}";
 
-// Изменяем ширину контента
-.wrapper {
-    max-width: 800px; /* Установи свою ширину */
-    margin: 0 auto;    /* Центрирование */
-    padding: 0 20px;   /* Отступы */
+// Переопределяем ширину контейнера
+.container-lg.container-lg {
+    max-width: 800px !important;
+    margin-right: auto;
+    margin-left: auto;
 }
