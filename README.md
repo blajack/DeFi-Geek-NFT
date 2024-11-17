@@ -61,9 +61,9 @@
 
 [Atom](#atom-master)
 
-[Antenna](#antenna)
+[Antenna](#linker)
 
-[Bluffing Cap](#aosmic-gambler)
+[Bluffing Cap](#cosmic-gambler)
 
 [Brain Tubes](#looter)
 
@@ -305,7 +305,7 @@
 [[вверх](#список-атрибутов)]
 
 
-# Librarian?
+# Librarian
 Активируется атрибутом: Galactic Lore
 ![Image](https://i.postimg.cc/qR06b63Y/Librarian.jpg)
 
