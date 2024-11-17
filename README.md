@@ -203,7 +203,7 @@
 # Cosmoleaser
 Активируется атрибутом: Celestial Disk
 ![Image](https://i.postimg.cc/K8BXG11J/Celestial-Disk.jpg)
-Активируется атрибутом: Celestial Disk
+
 
 Главный Гик сделал специальный кошелек с различными NFT, который претендует на дропы. В случае получения дропов на этот аккаунт **Cosmoleaser** имеет право на часть дропа.
 
