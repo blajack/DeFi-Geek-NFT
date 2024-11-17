@@ -2,6 +2,10 @@
 
 ![Image](https://i.postimg.cc/ncBNvG5K/3.jpg)
 
+<div style="text-align: center;">
+  <img src="https://i.postimg.cc/ncBNvG5K/3.jpg" style="margin: 0 auto; width:80%; height:auto;" alt="Image">
+</div>
+
 Коллекция [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и вторая [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) дают владельцу полный доступ к русскоязычному [Discord-серверу](https://discord.gg/Rk7VVUbHWX), основанному ютуб-блогером [Defi Geek](https://www.youtube.com/@defigeek), в сообществе его называют DeFi Geek или Главный Гик.
 
 > Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) самая доступная и служит входным билетом на сервер. Дает роль [**Gen1 member**](#gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
