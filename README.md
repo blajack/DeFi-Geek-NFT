@@ -51,7 +51,7 @@
 Атрибуты каждой NFT указаны на ее странице под самим изображением:
 
 <div style="text-align: center;">
-  <img src="https://i.postimg.cc/VNfj7zNs/NFT-atributs.jpg" style="margin: 0 auto; width:auto; height:60%" alt="Атрибуты NFT">
+  <img src="https://i.postimg.cc/VNfj7zNs/NFT-atributs.jpg" style="margin: 0 auto; width:60%; height:auto" alt="Атрибуты NFT">
 </div>
 
 
