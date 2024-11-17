@@ -20,6 +20,10 @@
 - Видео 2: [Атрибуты NFT](https://youtu.be/0yUOt1LdksI)       
 - Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
 
+<br><br>
+<br><br>
+
+
 
 ![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
 
