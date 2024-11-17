@@ -5,7 +5,7 @@
 
 Коллекция [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и вторая [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) дают владельцу полный доступ к русскоязычному [Discord-серверу](https://discord.gg/Rk7VVUbHWX), основанному ютуб-блогером [Defi Geek](https://www.youtube.com/@defigeek), в сообществе его называют DeFi Geek или Главный Гик.
 
-> Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf)?&mdash;? самая дешевая и служит входным билетом на сервер. Дает роль [**Gen1 member**](#Gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#Gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
+> Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf)?&mdash;? самая доступная и служит входным билетом на сервер. Дает роль [**Gen1 member**](#Gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#Gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
 Владелец любой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) получает бесплатный VPN от 30Gb каждый месяц. VPN отлично работает даже в Китае и России.
 
 Владельцы первой коллекции уже получили бесплатно NFT от [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). Кроме того, каждый NFT из коллекции обладает уникальными атрибутами, которые расширяют возможности участия в ежемесячных лотереях (гивэвеях), например, позволяют получать часть наград с продажи VPN или увеличенный приз в покерных турнирах.
@@ -25,8 +25,6 @@
 Видео 2: [Атрибуты NFT](https://youtu.be/0yUOt1LdksI)
 Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)
 
-
-# &nbsp;
 
 ![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
 
@@ -49,7 +47,7 @@
 &nbsp;
 
 
-# **Атрибуты и&nbsp;роли **
+# **Атрибуты и роли**
 У каждой NFT есть перечень атрибутов, которые дают доступ к определенной роли на сервере, тем самым открывая дополнительные возможности.
 
 Многие атрибуты еще не открыты, у владельцев первой и второй коллекции есть возможность предлагать идеи и утверждать их общим голосованием.
