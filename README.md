@@ -4,10 +4,10 @@
 
 Коллекция [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и вторая [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) дают владельцу полный доступ к русскоязычному [Discord-серверу](https://discord.gg/Rk7VVUbHWX), основанному ютуб-блогером [Defi Geek](https://www.youtube.com/@defigeek), в сообществе его называют DeFi Geek или Главный Гик.
 
-> Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf)?&mdash;? самая доступная и служит входным билетом на сервер. Дает роль [**Gen1 member**](#Gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#Gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
-Владелец любой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) получает бесплатный VPN от 30Gb каждый месяц. VPN отлично работает даже в Китае и России.
+> Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) самая доступная и служит входным билетом на сервер. Дает роль [**Gen1 member**](#gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
+Владелец любой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) получает бесплатный VPN от 30Gb каждый месяц, который отлично работает даже в Китае и России.
 
-Владельцы первой коллекции уже получили бесплатно NFT от [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). Кроме того, каждый NFT из коллекции обладает уникальными атрибутами, которые расширяют возможности участия в ежемесячных лотереях (гивэвеях), например, позволяют получать часть наград с продажи VPN или увеличенный приз в покерных турнирах.
+Владельцы первой коллекции уже получили бесплатно NFT от [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). Кроме того, каждый NFT из коллекции обладает уникальными атрибутами, которые расширяют возможности участия в ежемесячных лотереях (giveaway), например, позволяют получать часть наград с продажи VPN или увеличенный приз в покерных турнирах.
 
 
 # Discord-сервер
@@ -19,26 +19,21 @@
 - Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
 
 
-#
 ![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
 
-
+# Для участия в GIVEAWAY можно держать только одну NFT из коллекции
 На сервере в ветках #main-giveaway и #dao-giveaway проходят лотереи (giveaway) для владельцев NFT из каждой коллекции.
 
-
-# Для участия в GIVEAWAY можно держать только одну NFT из коллекции
 Это лотереи для владельцев гиков из коллекций [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). На одном аккаунте можно держать не более одного NFT из каждой. Аналогично - нельзя создавать несколько аккаунтов.
 
 > Нельзя держать две и более NFT из этих коллекций - такие владельцы теряют возможность участвовать в лотереях. Тоже самое будет с владельцами нескольких аккаунтов.
 **Все читеры теряют возможность участия в розыгрышах.**
 
-Исключение &ndash; роль [Ghostwalker](#Ghostwalker) - она дается если вам выпала NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Это NFT с темным гиком - самая редкая и позволяет держать любое количество гиков на аккаунте.
+Исключение роль [Ghostwalker](#ghostwalker) - она дается если вам выпала NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Это NFT с темным гиком - самая редкая и позволяет держать любое количество гиков на аккаунте.
 
 Если у вас есть NFT из обоих коллекций с гиками (Defi Geeks и&nbsp;Defi Geeks Survivers), вы получаете роль **T-800.**
 
 Из [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf)? можно держать любое количество NFT на аккаунте, но это не дает никаких преимуществ и лишено смысла, рекомендуется оставить одну.
-
-&nbsp;
 
 
 # **Атрибуты и роли**
@@ -48,8 +43,8 @@
 
 Атрибуты каждой NFT указаны на ее странице под самим изображением:
 
-
 ![Image](https://i.postimg.cc/VNfj7zNs/NFT-atributs.jpg)
+
 У этой NFT атрибуты: Glitch Garland, Cosmic Fusion, Phantom Punisher, Particled Tracksuit, Peakara.
 
 Каждый атрибут дает какую-то определенную роль с набором способностей. На сервере у участника может быть несколько ролей.
@@ -68,7 +63,7 @@
 
 [Brain Tubes](#looter)
 
-[Broken Nebular Transmitter](#Linker)
+[Broken Nebular Transmitter](#linker)
 
 [Celestial Disk](#cosmoleaser)
 
@@ -139,9 +134,7 @@
 
 # Alchemist
 Активируется атрибутом: Cosmic Pump Potion
-
 ![Image](https://i.postimg.cc/bJ950mVD/Alchemist.jpg)
-*Активируется атрибутом: Cosmic Pump Potion*
 
 Усиливает шансы в лотереях. Если **Alchemist** выигрывает главную лотерею (#main-giveaway), на следующий месяц он получает 6 дополнительных тикетов (билетов) для участия в любых розыгрышах. Может выбрать ещё одну роль и дать ей такие же 6 дополнительных тикетов для участия в следующей лотерее.
 
@@ -166,10 +159,7 @@
 
 # Angel
 Активируется атрибутом: Nimb
-
-
 ![Image](https://i.postimg.cc/9QRmGXr7/Angel.jpg)
-Активируется атрибутом: Nimb
 
 Поддерживает новые коллекции NFT и получает вознаграждения за это, в зависимости от вложенных усилий. Для владельцев есть отдельная ветка на сервере "#2-collection".
 
@@ -178,10 +168,7 @@
 
 # Atom-master
 Активируется атрибутом: Atom
-
-
 ![Image](https://i.postimg.cc/pdKP60QV/Atom-Master.jpg)
-Активируется атрибутом: Atom
 
 Если этот гик выигрывает в лотерее, то увеличивает вознаграждение за ATOM в 5 раз. Его ближайший коллега [**Tia-master**](#Tia-master).
 
@@ -190,10 +177,7 @@
 
 # Briber
 Активируется атрибутом: Defi Puppet
-
-
 ![Image](https://i.postimg.cc/503bx6kZ/Briber.jpg)
-Активируется атрибутом: Defi Puppet
 
 Участвует в рекламных интеграциях на сервере и является союзником [**Destroyer**](#Destroyer), избегая его способностей. Он обсуждает и согласовывает рекламные интеграции и, если они одобрены главным администратором, получает 10% от их стоимости.
 
@@ -202,10 +186,7 @@
 
 # Cosmic Gambler
 Активируется атрибутом: Bluffing Cap
-
-
 ![Image](https://i.postimg.cc/4dZXkzw6/Bluffing-Cap.jpg)
-Активируется атрибутом: Bluffing Cap
 
 При победе в покерных турнирах увеличивает приз, также дает дополнительные бонусы в играх.
 
@@ -214,8 +195,6 @@
 
 # Cosmoleaser
 Активируется атрибутом: Celestial Disk
-
-
 ![Image](https://i.postimg.cc/K8BXG11J/Celestial-Disk.jpg)
 Активируется атрибутом: Celestial Disk
 
@@ -228,10 +207,7 @@
 
 # Crypto-tzar
 Активируется атрибутом: Crown
-
-
 ![Image](https://i.postimg.cc/8cj3qc8d/crown.jpg)
-Активируется атрибутом: Crown
 
 Владельцы атрибута Crown (Корона) особую роль. Если кто-то из них не выигрывает в общей лотерее, то проводится отдельная лотерея среди валдельцев роли **Crypto-tzar**, чтобы выявить &laquo;главного царя&raquo;.
 
@@ -242,42 +218,29 @@
 
 # Currency Master
 Активируется атрибутами: Scarf и DeFi Geek Master
-
-
 ![Image](https://i.postimg.cc/PxRhLBT4/scarf-geekmaster.jpg)
-Активируется атрибутами: Scarf и DeFi Geek Master
 
 Эта роль связана с золотистым шарфом, который символизирует ценность. Задача этой роли &mdash; привлекать новых пользователей на сервер и помогать им адаптироваться. Во второй коллекции эту функцию выполняет персонаж с атрибутом DeFi Geek Master.
 
 Занимается привлечением новичков и обустройством их на сервере, за это претендуют на часть доходов от продаж [NFT DeFI Geek Member Gen1.](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) Один из них становится победителем через розыгрыш и получает свой приз. При этом их вознаграждения выплачиваются в Atom, что также радует владельцев роли [**Crypto-tzar**](#Crypto-tzar), который получает свою &laquo;десятину&raquo;.
-
-&nbsp;
 
 [[вверх](#список-атрибутов)]
 
 
 # Destroyer
 Активируется атрибутом: Exoplanetary Devastation
-
-
 ![Image](https://i.postimg.cc/sgrzZPdt/destroyer.jpg)
-Активируется атрибутом: Exoplanetary Devastation
 
 В конце каждого месяца на сервере проходят розыгрыши для владельцев [NFT Defi Geeks 1](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) . Если побеждает **Destroyer**, то он отключает все особые способности других участников на следующий месяц. **Destroyer** не трогает [**Briber**](#Briber) и [**Protector**](#Protector). Его разрушения активируют способности ролей [**Looter**](#Looter) и [**Reanimator**](#Reanimator).
 
 Такая разрушительная сила не сможет срабатывать два месяца подряд. Если он выигрывает в следующем месяце снова, то получает только приз.
-
-&nbsp;
 
 [[вверх](#список-атрибутов)]
 
 
 # Diplomat
 Активируется атрибутом: Cigarette
-
-
 ![Image](https://i.postimg.cc/d1pPQrjN/diplomat.jpg)
-Активируется атрибутом: Cigarette
 
 Позволяет использовать свои реферальные ссылки в первые 6 часов после выхода видео от на ютюб-канале [DeFi Geek](https://www.youtube.com/@defigeek), и прокачиваться на своих рефералах. Победитель этой с этой ролью будет в тесном контакте с Главным Гиком весь месяц.
 
@@ -287,13 +250,8 @@
 
 
 # Drop Harvester
-## Drop Harvester
-### Drop Harvester
 Активируется атрибутом: Airdrop Cap
-
-
 ![Image](https://i.postimg.cc/GpDp13RC/airdrop-Cap.jpg)
-Активируется атрибутом: Airdrop Cap
 
 Главный Гик сделал специальный кошелек с дроп-портфелем, который претендует на различные дропы за эти токены. В случае получения дропов на этот аккаунт он имеет право на часть дропа.
 
@@ -301,7 +259,6 @@
 
 
 # Gen1 member
-
 ![Image](https://i.postimg.cc/FsgPK09W/members.jpg)
 
 
@@ -317,40 +274,27 @@
 [[вверх](#список-атрибутов)]
 
 
-# Ghostwalker?
+# Ghostwalker
 Активируется атрибутом: Vaporiffic Outfit
-
-
 ![Image](https://i.postimg.cc/C1VxMyMf/dark.jpg)
-Активируется атрибутом: Vaporiffic Outfit
 
 Самая редкая и самая желанная роль. Владелец этой NFT может иметь любое количество NFT из обоих коллекций на своем кошельке, тем самым получая получая их способности. Получает доступ ко всем чатам и веткам сервера.
 
 [[вверх](#список-атрибутов)]
 
-&nbsp;
-
 
 # Headhunter
 Активируется атрибутом: Mystical Relic
-
-
 ![Image](https://i.postimg.cc/MGwGq2pf/mystical-Relict.jpg)
-Активируется атрибутом: Mystical Relic
 
 Получает вознаграждение за привлечение пользователей на [Discord-сервер](https://discord.gg/b9N3Nsey) (подробности на сервере в ветке #headhunter).
 
 [[вверх](#список-атрибутов)]
 
-&nbsp;
 
-
-# ?Linker
+# Linker
 Активируется атрибутами: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
-
-
 ![Image](https://i.postimg.cc/5NGYcRz8/Linker.jpg)
-Активируется атрибутами: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
 
 Увеличивает лимит VPN до 60 ГБ и возможность выигрывать часть прибыли с продаж VPN-сервиса.
 
@@ -359,10 +303,7 @@
 
 # Librarian?
 Активируется атрибутом: Galactic Lore
-
-
 ![Image](https://i.postimg.cc/qR06b63Y/Librarian.jpg)
-Активируется атрибутом: Galactic Lore
 
 Разрабатывает способности для гиков и получает вознаграждение за это. За принятое предложение получает вознаграждение.
 
@@ -373,10 +314,7 @@
 
 # Looter
 Активируется атрибутами: Brain Tubes, Thin Brain Tubes, Gold Brain Tubes.
-
-
 ![Image](https://i.postimg.cc/x88ChvTs/looter.jpg)
-Активируется атрибутами: Brain Tubes, Thin Brain Tubes, Gold Brain Tubes.
 
 Эта роль получает доступ ко всем атрибутам, которые есть у других Гиков NFT на голове, но только в том случае, если в лотерее победил [Destroyer](#Destroyer).
 
@@ -385,10 +323,7 @@
 
 # Luckystrike
 Активируется атрибутами: Luminous Red Diamond, Emerald Pendant
-
-
 ![Image](https://i.postimg.cc/vB5LcRXj/Red-Dimond-Emerald-Pendant.jpg)
-Активируется атрибутами: Luminous Red Diamond, Emerald Pendant
 
 Усиливает шансы в лотереях. Он получает 2 дополнительных тикета (билета) для участия в любых розыгрышах.
 
@@ -397,10 +332,8 @@
 
 # Mindsmoker
 Активируется атрибутом: Headsmoke
-
-
 ![Image](https://i.postimg.cc/d3sd1ZQd/headsmoker.jpg)
-Активируется атрибутом: Headsmoke
+
 
 Эта роль активно участвует во всех движениях на сервере, особенно когда дело касается NFT. Если Главный Гик получает доступ к White List (WL) для какой-либо коллекции, они находятся в приоритете. Всего 8 NFT, которые дают такую роль. Если количество WL меньше 8, то они разыгрывают их между собой. Если больше - то первые 8 место получают эти ребята, а оставшиеся будут разыграны среди остальных.
 
@@ -411,10 +344,7 @@
 
 # Mimic
 Активируется атрибутом: ReFi Harmony Plant
-
-
 ![Image](https://i.postimg.cc/13fGwFGr/harmony-Plant.jpg)
-Активируется атрибутом: ReFi Harmony Plant
 
 Позволяет раз в год копировать один атрибут другого NFT. Эта роль держит особое растение, которое даёт ему возможность скопировать любой понравившийся атрибут. При этом его собственные атрибуты остаются неизменными.
 
@@ -425,12 +355,9 @@
 [[вверх](#список-атрибутов)]
 
 
-# Navigator?
+# Navigator
 Активируется атрибутом: Galactic Navigator
-
-
 ![Image](https://i.postimg.cc/hGNpfrNm/galactic-Navigator.jpg)
-Активируется атрибутом: Galactic Navigator
 
 Вскрытие роли произойдет после окончания минта новой коллекции Defi Geeks Survivers.
 
@@ -439,22 +366,16 @@
 
 # Nodelord
 Активируется атрибутом: Cyber Nerve.
-
-
 ![Image](https://i.postimg.cc/KjwVFbF6/Cyber-Nerve.jpg)
-Активируется атрибутом: Cyber Nerve.
 
 Связан с нодами.
 
 [[вверх](#список-атрибутов)]
 
 
-# Orbital Survivor?
+# Orbital Survivor
 Активируется атрибутом: Donation Jar
-
-
 ![Image](https://i.postimg.cc/xjNVxp9w/Donation-Jar.jpg)
-Активируется атрибутом: Donation Jar
 
 Претендует на донаты и не забранные призы. Этот гик побит жизнью, но не сломлен. Если сервер DeFi Geek получает донаты, обладатель этой роли может претендовать на них.
 
@@ -463,12 +384,9 @@
 [[вверх](#список-атрибутов)]
 
 
-# Portal Jumper?
+# Portal Jumper
 Активируется атрибутом: Portal
-
-
 ![Image](https://i.postimg.cc/8cx1YxY5/Portal.jpg)
-Активируется атрибутом: Portal
 
 Получает бесплатные минты при запуске NFT Главным Гиком вне Stargaze.
 
@@ -477,10 +395,7 @@
 
 # Predictor
 Активируется атрибутом: Holographic Essence
-
-
 ![Image](https://i.postimg.cc/9FNTmf6R/Holographic-Essence.jpg)
-Активируется атрибутом: Holographic Essence
 
 Роль **Predictor** защищена от ловушек, которые устанавливает роль [**Trapper**](#Trapper). Во-вторых, во время проведения лотерей (giveaway) **Predictor** получает повышенные шансы на победу, имея три тикета (билета) вместо одного.
 
@@ -491,22 +406,16 @@
 
 # Protector
 Активируется атрибутом: Solar Shields
-
-
 ![Image](https://i.postimg.cc/mZKzJnCC/Solar-Shields.jpg)
-Активируется атрибутом: Solar Shields
 
 Обладает защитой от ловушек [**Trapper**](#Trapper) и разрушений от [**Destroyer**](#Destroyer). Может бесплатно воспользоваться услугами Белого Хакера в случае взлома кошелька.
 
 [[вверх](#список-атрибутов)]
 
 
-# Punisher?
+# Punisher
 Активируется атрибутом Phantom Punisher
-
-
 ![Image](https://i.postimg.cc/xd99Bv6K/punisher.jpg)
-Активируется атрибутом Phantom Punisher
 
 При победе в лотерее отнимает награды у [**Gen1 member**](#Gen1-member).
 
@@ -515,48 +424,34 @@
 
 # Reanimator
 Активируется атрибутом: Alien Starborn Planet
-
-
 ![Image](https://i.postimg.cc/tJqRPhxq/Alien-Starborn-Planet.jpg)
-Активируется атрибутом: Alien Starborn Planet
 
 Если в лотереи побеждает [**Destroyer**](#Destroyer), то получает доступ ко всем атрибутам которые другие Гики NFT держат в руках и их аксессуарам (за исключением атрибута [Defi Puppet](#Briber)).
 
 [[вверх](#список-атрибутов)]
 
 
-# Scanner?
+# Scanner
 Активируется атрибутом: Focusers
-
-
 ![Image](https://i.postimg.cc/ryr7CdJc/Focusers.jpg)
-Активируется атрибутом: Focusers
 
 Может видеть ловушки, расставленные [**Trapper**](#Trapper), и избегать их.
 
 [[вверх](#список-атрибутов)]
 
 
-# Stargazer?
+# Stargazer
 Активируется атрибутом: Tatoo Stars
-
-
 ![Image](https://i.postimg.cc/59XQPJYf/stars.jpg)
-Активируется атрибутом: Tatoo Stars
 
 Периодически получает возможность выиграть процент с продаж на Stargaze. Такой розыгрыш происходит редко и не пересекается с ежемесячными лотереями.
 
 [[вверх](#список-атрибутов)]
 
 
-# &nbsp;
-
-# Tia-master?
+# Tia-master
 Активируется атрибутом: Celestia
-
-
 ![Image](https://i.postimg.cc/9Fv5HdQD/celestia.jpg)
-Активируется атрибутом: Celestia
 
 Если этот гик выигрывает в лотерее , то увеличивает вознаграждение за TIA в 3 раза. Его ближайший коллега [**Atom-master**](#Atom-master).
 
@@ -565,10 +460,7 @@
 
 # Timelooper
 Активируется атрибутом: Time Swapper
-
-
 ![Image](https://i.postimg.cc/T2b7ZZBX/Time-Swapper.jpg)
-Активируется атрибутом: Time Swapper
 
 При победе в главной лотерее позволяет перезапустить ее снова. При этом призы победителей передидущей сохраняются у всех. Так же перезапускается лотерея для владельцев [**Gen1 member**](#Gen1-member).
 
@@ -577,48 +469,32 @@
 
 # Trapper
 Активируется атрибутом: Gravity Trap
-
-
 ![Image](https://i.postimg.cc/J0M3kdxs/gravity-Trap.jpg)
-Активируется атрибутом: Gravity Trap
 
 Он может выбрать 3 роли после своей победы в главном розыгрыше. Если одна из выбранных ролей побеждает в следующем розыгрыше, то **Trapper** забирает её приз, но оставляет ей возможность использовать свои способности.
 
 Примеры:
-
-
-Если **Trapper** выбрал роль [**Atom-master**](#Atom-master) и он выигрывает, то **Trapper** забирает увеличенный приз, который положен [**Atom-master**](#Atom-master).
-Если выбрал роль [**Diplomat**](#Diplomat) и она выиграла, **Trapper** получает его финансовый приз, но оставляет ему его способности.
-
-**Trapper** не может выбирать сам себя или [**Crypto-tzar**](#Crypto-tzar).
-
-Если **Trapper** выбрал роль, в которой он сам тоже есть, то такой игрок не попадёт в ловушку.
+- Если **Trapper** выбрал роль [**Atom-master**](#Atom-master) и он выигрывает, то **Trapper** забирает увеличенный приз, который положен [**Atom-master**](#Atom-master).
+- Если выбрал роль [**Diplomat**](#Diplomat) и она выиграла, **Trapper** получает его финансовый приз, но оставляет ему его способности.
+- **Trapper** не может выбирать сам себя или [**Crypto-tzar**](#Crypto-tzar).
+- Если **Trapper** выбрал роль, в которой он сам тоже есть, то такой игрок не попадёт в ловушку.
 
 Его ловушки не срабатывают на [**Predictor**](#Predictor), [**Protector**](#Protector) и [**Scanner**](#Scanner).
 
-&nbsp;
 
 [[вверх](#список-атрибутов)]
 
 
 # Upgrader
 Активируется атрибутом: Galactic Impulse
-
-
 ![Image](https://i.postimg.cc/4ykLF55G/Galactic-Impulse.jpg)
-Активируется атрибутом: Galactic Impulse
 
 Усиливает способности оставшихся атрибутов, увеличивая их возможности.
 
 Если эта способность срабатывает у [**Trapper**](#Trapper), то вместо 3 ролей он выбирает 6.
 
-Если у [**Headhunter**](#Headhunter)&nbsp;, то он получит увеличенную награду.&nbsp;
+Если у [**Headhunter**](#Headhunter), то он получит увеличенную награду.&nbsp;
 
-Роль будет обновляться&hellip;
+Роль будет обновляться
 
 [[вверх](#список-атрибутов)]
-
-
-
-
-![image](https://github.com/user-attachments/assets/82236b58-ec71-4fc0-8113-a295d329cfab)
