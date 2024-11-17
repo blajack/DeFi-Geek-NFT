@@ -92,6 +92,8 @@
 
 [Donation Jar](#orbital-survivor)
 
+[Emerald Pendant](#luckystrike)
+
 [Exoplanetary Devastation](#destroyer)
 
 [Focusers](#scanner)
@@ -111,6 +113,8 @@
 [Holographic Essence](#predictor)
 
 [Link Controller](#linker)
+
+[Luminous Red Diamond](#luckystrike) 
 
 [Mystical Relic](#headhunter)
 
