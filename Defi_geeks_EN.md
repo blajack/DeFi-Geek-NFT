@@ -127,3 +127,29 @@ Each user on the server can have multiple roles. Roles are assigned based on NFT
 - [Timelooper](#timelooper)
 - [Trapper](#trapper)
 - [Upgrader](#upgrader)
+
+# Alchemist
+Activated by Attribute: Cosmic Pump Potion
+![Image](https://i.postimg.cc/bJ950mVD/Alchemist.jpg)
+
+Increases giveaway chances. If an Alchemist wins the #main-giveaway, he receive 6 additional tickets for any giveaways in the following month.
+Also the **Alchemist** can select one additional role to receive the same 6 extra tickets for the next giveaways. 
+
+Example: If the Alchemist grants the boost to the **Predictor** role, the **Predictor** will have 8 tickets (2 from its own attributes + 6 additional).
+
+This boost for both roles is active for one month only and cannot trigger two months in a row. If the **Alchemist** wins the #main-giveaway again on next month, he simply claim the prize, and the boost does not activate.
+
+Plus, Alchemist has privileges in IDO with access to allocations and a chance to win additional prizes.
+
+Main Geek created a fund of 20,000 Eclipse to secure a guaranteed allocation of $500 and a chance to win an additional $1,250 through 16 tickets.
+
+Ticket Distribution:
+-  2 tickets – for **Gen1 members**
+-  14 tickets – for holders of DeFi Geeks NFT
+
+Owners of the **Alchemist** role receive 7 tickets first. If there are fewer tickets, they will be raffled among them. __If there are more tickets, the remaining ones will be randomly distributed among other NFT holders.__
+
+Winners receive a mini-ticket, which grants the right to purchase a part of the IDO tokens. The tokens will be unlocked in stages: initially 20-30%, with the remainder gradually released over the next few months. You can buy tokens right away, and the rest will be distributed later.
+
+To receive an allocation in Eclipse, you need to win twice: once in our giveaway and once in the distribution on the Eclipse platform. If you're lucky both times, you will need to transfer ~10-25 USDC to Main Geek to redeem the tokens. You won’t need to go through KYC or freeze funds — Main Geek has already done that for you.
+
