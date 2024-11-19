@@ -133,18 +133,18 @@ Each user on the server can have multiple roles. Roles are assigned based on NFT
 Activated by Attribute: Cosmic Pump Potion
 ![Image](https://i.postimg.cc/bJ950mVD/Alchemist.jpg)
 
-Increases giveaway chances. If an Alchemist wins in the #main-giveaway, he receive 6 additional tickets for any giveaways in the following month. Also the **Alchemist** can select one additional role to receive the same 6 extra tickets for the next giveaways. 
+Increases giveaway chances. If an **Alchemist** wins in the #main-giveaway, he receive 6 additional tickets for any giveaways in the following month. Also the **Alchemist** can select one additional role to receive the same 6 extra tickets for the next giveaways. 
 
-Example: If the Alchemist grants the extra tickets to the **Predictor** role, the **Predictor** will have 8 tickets (2 from its own attributes + 6 additional).
+Example: If the Alchemist grants the extra tickets to the [**Predictor**](#predictor) role, the [**Predictor**](#predictor) will have 8 tickets (2 from its own attributes + 6 additional).
 
 This boost for both roles is active for one month only and cannot trigger two months in a row. If the **Alchemist** wins the #main-giveaway again on next month, he simply claim the prize, and the boost does not activate.
 
-Plus, Alchemist has privileges in IDO with access to allocations and a chance to win additional prizes.
+Plus, **Alchemist** has privileges in IDO with access to allocations and a chance to win additional prizes.
 
 Main Geek created a fund of 20,000 Eclipse to secure a guaranteed allocation of $500 and a chance to win an additional $1,250 through 16 tickets.
 
 Ticket Distribution:
--  2 tickets – for **Gen1 members**
+-  2 tickets – for [**Gen1 members**](#gen1-members)
 -  14 tickets – for holders of DeFi Geeks NFT
 
 Owners of the **Alchemist** role receive 7 of these tickets. If there are fewer tickets, they will be raffled among them. If there are more, the remaining tickets will be distributed among other roles through a lottery.
@@ -178,7 +178,7 @@ If this geek wins a giveaway, his reward in ATOM increases in 5 times. His close
 Activated by Attribute: Defi Puppet
 ![Image](https://i.postimg.cc/503bx6kZ/Briber.jpg)
 
-Участвует в рекламных интеграциях на сервере и является союзником [**Destroyer**](#destroyer), избегая его способностей. Он обсуждает и согласовывает рекламные интеграции и, если они одобрены главным администратором, получает 10% от их стоимости.
+Participates in advertising integrations on the server and acts as an ally to [**Destroyer**](#destroyer), avoiding his abilities. This role discusses and negotiates advertising integrations and, if approved by the Main Geek, receives 10% of their value.
 
 [[up](#list-of-roles)]
 
@@ -220,7 +220,7 @@ Activated by Attribute: Scarf и DeFi Geek Master
 
 This role, symbolized by a golden scarf, represents value and community growth. Its main purpose is to attract new members to the server and guide them. In the second collection, this responsibility is carried out by a character with the DeFi Geek Master attribute.
 
-By helping recruit and integrate newcomers, holders of this role earn a share of the revenue generated from sales of the [NFT DeFI Geek Member Gen1.](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Additionally, one member is selected through a lottery to receive a special prize. Rewards are distributed in ATOM, which also benefits **Crypto-tzar**](#crypto-tzar) roleholders, as they receive their customary "tithe."
+By helping recruit and integrate newcomers, holders of this role earn a share of the revenue generated from sales of the [NFT DeFI Geek Member Gen1.](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Additionally, one member is selected through a lottery to receive a special prize. Rewards are distributed in ATOM, which also benefits [**Crypto-tzar**](#crypto-tzar) roleholders, as they receive their customary "tithe."
 
 [[up](#list-of-roles)]
 
@@ -263,22 +263,23 @@ This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaz
 
 The collection includes three types of NFTs:
 
-## Common (Blue): 9 000 units
+### Common (Blue): 9 000 units
 Grants access to the server and the ability to participate in giveaways.
 
-## Uncommon (Golden): 900 units
+### Uncommon (Golden): 900 units
 Provides an additional role: **Solaris**.
 - **Giveaway Boost:** If you win a giveaway, your prize increases by 1.5x.
 - **Cashback:** You can exchange this NFT for a 10% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The exchange must be pre-approved.
-**VPN Discount:** Grants a 50% discount on VPN services.
+- **VPN Discount:** Grants a 50% discount on VPN services.
 
-## Rare (Indigo): 100 units 
+### Rare (Indigo): 100 units 
 Provides an additional role:  **Indigo**.
 - **Giveaway Boost:** If you win a giveaway, your prize increases by 2.5x.
 - **Cashback:** You can exchange this NFT for a 20% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be pre-approved.
 - **VPN Discount:** Provides free VPN services.
 
 [[up](#list-of-roles)]
+
 
 # Ghostwalker
 Activated by Attribute: Vaporiffic Outfit
