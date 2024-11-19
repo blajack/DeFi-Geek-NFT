@@ -153,11 +153,17 @@ Winners will receive  a mini-ticket, which grants the right to purchase a part o
 
 To receive an allocation in Eclipse, you need to win twice: once in our giveaway and once in the distribution on the Eclipse platform. If you're lucky both times, you will need to transfer ~10-25 USDC to Main Geek to redeem the tokens. You won’t need to go through KYC or freeze funds — Main Geek has already done that for you.
 
+[[up](#list-of-roles)]
+
+
 # Angel
 Activated by Attribute: Nimb
 ![Image](https://i.postimg.cc/9QRmGXr7/Angel.jpg)
 
 They support new NFT collections and receive rewards for their efforts, depending on the level of contribution. Owners of this role have access to a dedicated channel on the server: **#2-collection**.
+
+[[up](#list-of-roles)]
+
 
 # Atom-master
 Activated by Attribute: Atom
@@ -165,13 +171,16 @@ Activated by Attribute: Atom
 
 If this geek wins a giveaway, his reward in ATOM increases in 5 times. His closest counterpart is [**Tia-master**](#tia-master).
 
+[[up](#list-of-roles)]
+
+
 # Briber
 Activated by Attribute: Defi Puppet
 ![Image](https://i.postimg.cc/503bx6kZ/Briber.jpg)
 
 Участвует в рекламных интеграциях на сервере и является союзником [**Destroyer**](#destroyer), избегая его способностей. Он обсуждает и согласовывает рекламные интеграции и, если они одобрены главным администратором, получает 10% от их стоимости.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Cosmic Gambler
@@ -180,7 +189,7 @@ Activated by Attribute: Bluffing Cap
 
 Winning in poker tournaments increases the prize for this geek and grants additional bonuses in other games.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Cosmoleaser
@@ -191,6 +200,7 @@ Main Geek has created a special wallet containing various NFTs for airdrops. If 
 
 Additionally, Main Geek owns a collection of NFTs that can be used in various services. Many of these NFTs remain unused, and holders of this role can borrow them for a time.
 
+[[up](#list-of-roles)]
 
 
 # Crypto-tzar
@@ -201,6 +211,8 @@ Holders of the Crown attribute gain a special role. If none of the **Crypto-tzar
 
 The **Crypto-tzar** has the right to claim a "tithe"—10% of the winnings from those who succeed. This character is clever and independent, claiming their share without hesitation. This mechanic applies exclusively to Crown attribute holders and does not affect other server members.
 
+[[up](#list-of-roles)]
+
 
 # Currency Master
 Activated by Attribute: Scarf и DeFi Geek Master
@@ -209,6 +221,8 @@ Activated by Attribute: Scarf и DeFi Geek Master
 This role, symbolized by a golden scarf, represents value and community growth. Its main purpose is to attract new members to the server and guide them. In the second collection, this responsibility is carried out by a character with the DeFi Geek Master attribute.
 
 By helping recruit and integrate newcomers, holders of this role earn a share of the revenue generated from sales of the [NFT DeFI Geek Member Gen1.](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Additionally, one member is selected through a lottery to receive a special prize. Rewards are distributed in ATOM, which also benefits **Crypto-tzar**](#crypto-tzar) roleholders, as they receive their customary "tithe."
+
+[[up](#list-of-roles)]
 
 
 # Destroyer
@@ -219,6 +233,8 @@ At the end of each month,hosts giveaways for owners of [Defi Geeks](https://www.
 
 This destructive power cannot be triggered two months in a row. If the **Destroyer** wins again the next month, he only claim the prize without activating his ability.
 
+[[up](#list-of-roles)]
+
 
 # Diplomat
 Activated by Attribute: Cigarette
@@ -228,12 +244,16 @@ This role allows holders to share their referral links during the first six hour
 
 In the IDO lottery, holders can claim 50% of the allocation, provided they win a ticket on the server and that same ticket also wins in the IDO process. Rewards will be distributed in multiple stages.
 
+[[up](#list-of-roles)]
+
 
 # Drop Harvester
 Activated by Attribute: Airdrop Cap
 ![Image](https://i.postimg.cc/GpDp13RC/airdrop-Cap.jpg)
 
 Main Geek has a special wallet designed to qualify for various token airdrops. If any airdrops are received by this wallet, holders of this role are entitled to a share of the rewards.
+
+[[up](#list-of-roles)]
 
 
 # Gen1 member
@@ -258,6 +278,7 @@ Provides an additional role:  **Indigo**.
 - **Cashback:** You can exchange this NFT for a 20% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be pre-approved.
 - **VPN Discount:** Provides free VPN services.
 
+[[up](#list-of-roles)]
 
 # Ghostwalker
 Activated by Attribute: Vaporiffic Outfit
@@ -265,6 +286,7 @@ Activated by Attribute: Vaporiffic Outfit
 
 The most exclusive and highly sought-after role. Owners of this NFT can hold an unlimited number of NFTs from both collections in their wallet, thereby gaining access to all their abilities. This role also provides full access to all channels on the server.
 
+[[up](#list-of-roles)]
 
 # Headhunter
 Activated by Attribute: Mystical Relic
@@ -272,7 +294,7 @@ Activated by Attribute: Mystical Relic
 
 Earns rewards for bringing new users to the [Discord server](https://discord.gg/b9N3Nsey). For more details, check the **#headhunter** channel on the server.
 
-
+[[up](#list-of-roles)]
 
 
 # Linker
@@ -281,7 +303,7 @@ Activated by Attribute: Nebular Transmitter, Broken Nebular Transmitter, Link Co
 
 Increases the VPN limit to 60 GB and provides the opportunity to earn a share of the profits from VPN service sales.
 
-
+[[up](#list-of-roles)]
 
 
 # Librarian
@@ -292,7 +314,7 @@ Develops abilities for roles on the server. Approved proposals earn the **Librar
 
 If the **Librarian** wins the main-giveaway, he gain the opportunity to have a one-on-one call with the Main Geek to discuss any questions.
 
-
+[[up](#list-of-roles)]
 
 
 # Looter
@@ -301,7 +323,7 @@ Activated by Attribute: Brain Tubes, Thin Brain Tubes, Gold Brain Tubes.
 
 This role gains access to all head-related attributes from other Geek NFTs, but only if the [Destroyer](#destroyer) wins the main-giveaway.
 
-
+[[up](#list-of-roles)]
 
 
 # Luckystrike
@@ -310,6 +332,7 @@ Activated by Attribute: Luminous Red Diamond, Emerald Pendant
 
 Grants an extra chance in giveaways. **Luckystrike** receives 1 additional ticket for all giveaways, giving them a total of 2 tickets.
 
+[[up](#list-of-roles)]
 
 # Mindsmoker
 Activated by Attribute: Headsmoke
@@ -318,6 +341,8 @@ Activated by Attribute: Headsmoke
 This role actively participates in all server events, especially those related to NFTs. When the Main Geek secures access to a White List (WL) for any collection, holders of this role are given priority (there are only 8 of them). If the WL are fewer than 8, they are raffled among the role holders. If more, the first 8 spots go to these members, and the remaining spots are distributed among others.
 
 The role has a "karma" system. Before allocating WL spots, the Main Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
+
+[[up](#list-of-roles)]
 
 
 # Mimic
@@ -330,7 +355,7 @@ The plant becomes usable once a year, on April 20th (Bitcoin halving day). The o
 
 The copied attribute remains active for exactly one year. After this period, the owner can either select a new attribute or keep the current one. If a new attribute is chosen, the previously copied one disappears.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Navigator
@@ -339,7 +364,7 @@ Activated by Attribute: Galactic Navigator
 
 The role will be unlocked after the minting of the new Defi Geeks Survivors collection is complete.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Nodelord
@@ -348,7 +373,7 @@ Activated by Attribute: Cyber Nerve.
 
 Associated with blockchain nodes.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Orbital Survivor
@@ -357,7 +382,7 @@ Activated by Attribute: Donation Jar
 
 Eligible for donations and unclaimed prizes. This geek may be battered by life but remains unbroken. If the Discord server receives donations, the holder of this role is eligible to claim part of them.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Portal Jumper
@@ -366,7 +391,7 @@ Activated by Attribute: Portal
 
 Gets free mints whenever the Main Geek launches NFTs outside Stargaze.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Predictor
@@ -379,6 +404,7 @@ During giveaways, **Predictor** gets increased odds of winning by receiving two 
 
 Additionally, if the Main Geek’s account wins an IDO ticket that fully belongs to him, the **Predictor** can purchase 25% of that win. Details on IDOs can be found under [**Alchemist**](#alchemist), who also competes for this reward.
 
+[[up](#list-of-roles)]
 
 
 # Protector
@@ -388,6 +414,7 @@ Activated by Attribute: Solar Shields
 Immune to traps from [**Trapper**](#trapper) and destruction by [**Destroyer**](#destroyer).
 This role can also access White Hat Hacker services for free in case of wallet hacks.
 
+[[up](#list-of-roles)]
 
 # Punisher
 Activated by Attribute: Phantom Punisher
@@ -395,6 +422,7 @@ Activated by Attribute: Phantom Punisher
 
 When winning a giveaway, this role takes rewards from [**Gen1 member**](#gen1-member).
 
+[[up](#list-of-roles)]
 
 # Reanimator
 Activated by Attribute: Alien Starborn Planet
@@ -409,6 +437,8 @@ Activated by Attribute: Focusers
 
 This role can detect and avoid traps set by [**Trapper**](#trapper).
 
+[[up](#list-of-roles)]
+
 
 # Stargazer
 Activated by Attribute: Tatoo Stars
@@ -416,7 +446,7 @@ Activated by Attribute: Tatoo Stars
 
 Occasionally has a chance to win a percentage of sales on Stargaze. These raffles are infrequent and separate from monthly giveaways.
 
-
+[[up](#list-of-roles)]
 
 
 # Tia-master
@@ -426,7 +456,7 @@ Activated by Attribute: Celestia
 If this geek wins a giveaway, his reward in TIA increases in 3 times.
 The closest counterpart is [**Atom-master**](#atom-master).
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Timelooper
@@ -435,6 +465,7 @@ Activated by Attribute: Time Swapper
 
 If this geek wins a giveaway, he restart all giveaways again. The previous winners keep their prizes. The giveaway for [**Gen1 member**](#gen1-member) holders is also restarted.
 
+[[up](#list-of-roles)]
 
 
 # Trapper
@@ -449,7 +480,7 @@ Examples:
 - **Trapper** cannot choose itself or [**Crypto-tzar**](#crypto-tzar), [**Predictor**](#predictor), [**Protector**](#protector) и [**Scanner**](#scanner).
 
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
 
 # Upgrader
@@ -464,5 +495,5 @@ For example:
 
 This role will be updated.
 
-[[вверх](#список-ролей)]
+[[up](#list-of-roles)]
 
