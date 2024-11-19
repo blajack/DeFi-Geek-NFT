@@ -163,7 +163,7 @@ They support new NFT collections and receive rewards for their efforts, dependin
 Activated by Attribute: Atom
 ![Image](https://i.postimg.cc/pdKP60QV/Atom-Master.jpg)
 
-If this geek wins a giveaway, his reward in ATOM increases fivefold. His closest counterpart is [**Tia-master**](#tia-master).
+If this geek wins a giveaway, his reward in ATOM increases in 5 times. His closest counterpart is [**Tia-master**](#tia-master).
 
 # Briber
 Activated by Attribute: Defi Puppet
@@ -373,63 +373,58 @@ Gets free mints whenever the Main Geek launches NFTs outside Stargaze.
 Activated by Attribute: Holographic Essence
 ![Image](https://i.postimg.cc/9FNTmf6R/Holographic-Essence.jpg)
 
-Роль **Predictor** защищена от ловушек, которые устанавливает роль [**Trapper**](#trapper). Во-вторых, во время проведения лотерей (giveaway) **Predictor** получает повышенные шансы на победу, получает два дополнительный тикета (битела). Т.е суммарно у него три тикета вместо одного. 
+The **Predictor** role is immune to traps set by the [**Trapper**](#trapper).
 
-Кроме того, если аккаунт Главного Гика выигрывает билет в IDO, который в полном объеме ему принадлежит, то **Predictor** может выкупить 25% этого выигрыша. Подробнее про IDO у [**Alchemist**](#alchemist), они тоже претендуют на этот куш.
+During giveaways, **Predictor** gets increased odds of winning by receiving two tickets. In total 3 tickets instead of one.
 
-[[вверх](#список-ролей)]
+Additionally, if the Main Geek’s account wins an IDO ticket that fully belongs to him, the **Predictor** can purchase 25% of that win. Details on IDOs can be found under [**Alchemist**](#alchemist), who also competes for this reward.
+
 
 
 # Protector
 Activated by Attribute: Solar Shields
 ![Image](https://i.postimg.cc/mZKzJnCC/Solar-Shields.jpg)
 
-Обладает защитой от ловушек [**Trapper**](#trapper) и разрушений от [**Destroyer**](#destroyer). Может бесплатно воспользоваться услугами Белого Хакера в случае взлома кошелька.
-
-[[вверх](#список-ролей)]
+Immune to traps from [**Trapper**](#trapper) and destruction by [**Destroyer**](#destroyer).
+This role can also access White Hat Hacker services for free in case of wallet hacks.
 
 
 # Punisher
 Activated by Attribute: Phantom Punisher
 ![Image](https://i.postimg.cc/xd99Bv6K/punisher.jpg)
 
-При победе в лотерее отнимает награды у [**Gen1 member**](#gen1-member).
-
-[[вверх](#список-ролей)]
+When winning a giveaway, this role takes rewards from [**Gen1 member**](#gen1-member).
 
 
 # Reanimator
 Activated by Attribute: Alien Starborn Planet
 ![Image](https://i.postimg.cc/tJqRPhxq/Alien-Starborn-Planet.jpg)
 
-Если в лотереи побеждает [**Destroyer**](#destroyer), то получает доступ ко всем атрибутам которые другие Гики NFT держат в руках и их аксессуарам (за исключением атрибута [Defi Puppet](#briber)).
-
-[[вверх](#список-ролей)]
+If [**Destroyer**](#destroyer) wins a giveaway, **Reanimator** gains access to all attributes and accessories held by other geeks' NFTs (except the [Defi Puppet](#briber) attribute).
 
 
 # Scanner
 Activated by Attribute: Focusers
 ![Image](https://i.postimg.cc/ryr7CdJc/Focusers.jpg)
 
-Может видеть ловушки, расставленные [**Trapper**](#trapper), и избегать их.
-
-[[вверх](#список-ролей)]
+This role can detect and avoid traps set by [**Trapper**](#trapper).
 
 
 # Stargazer
 Activated by Attribute: Tatoo Stars
 ![Image](https://i.postimg.cc/59XQPJYf/stars.jpg)
 
-Периодически получает возможность выиграть процент с продаж на Stargaze. Такой розыгрыш происходит редко и не пересекается с ежемесячными лотереями.
+Occasionally has a chance to win a percentage of sales on Stargaze. These raffles are infrequent and separate from monthly giveaways.
 
-[[вверх](#список-ролей)]
+
 
 
 # Tia-master
 Activated by Attribute: Celestia
 ![Image](https://i.postimg.cc/9Fv5HdQD/celestia.jpg)
 
-Если этот гик выигрывает в лотерее , то увеличивает вознаграждение за TIA в 3 раза. Его ближайший коллега [**Atom-master**](#atom-master).
+If this geek wins a giveaway, his reward in TIA increases in 3 times.
+The closest counterpart is [**Atom-master**](#atom-master).
 
 [[вверх](#список-ролей)]
 
@@ -438,24 +433,20 @@ Activated by Attribute: Celestia
 Activated by Attribute: Time Swapper
 ![Image](https://i.postimg.cc/T2b7ZZBX/Time-Swapper.jpg)
 
-При победе в главной лотерее позволяет перезапустить ее снова. При этом призы победителей передидущей сохраняются у всех. Так же перезапускается лотерея для владельцев [**Gen1 member**](#gen1-member).
+If this geek wins a giveaway, he restart all giveaways again. The previous winners keep their prizes. The giveaway for [**Gen1 member**](#gen1-member) holders is also restarted.
 
-[[вверх](#список-ролей)]
 
 
 # Trapper
 Activated by Attribute: Gravity Trap
 ![Image](https://i.postimg.cc/J0M3kdxs/gravity-Trap.jpg)
 
-Он может выбрать 3 роли после своей победы в главном розыгрыше. Если одна из выбранных ролей побеждает в следующем розыгрыше, то **Trapper** забирает её приз, но оставляет ей возможность использовать свои способности.
+After winning the main-giveaway, this role can select 3 roles on which to set his traps.. If one of the selected roles wins the next giveaway, Trapper claims their prize, but leaves their abilities intact.
 
-Примеры:
-- Если **Trapper** выбрал роль [**Atom-master**](#atom-master) и он выигрывает, то **Trapper** забирает увеличенный приз, который положен [**Atom-master**](#atom-master).
-- Если выбрал роль [**Diplomat**](#diplomat) и она выиграла, **Trapper** получает его финансовый приз, но оставляет ему его способности.
-- **Trapper** не может выбирать сам себя или [**Crypto-tzar**](#crypto-tzar).
-- Если **Trapper** выбрал роль, в которой он сам тоже есть, то такой игрок не попадёт в ловушку.
-
-Его ловушки не срабатывают на [**Predictor**](#predictor), [**Protector**](#protector) и [**Scanner**](#scanner).
+Examples:
+- If **Trapper** selects [**Atom-master**](#atom-master) and it wins, **Trapper** claims the enhanced reward of [**Atom-master**](#atom-master).
+- If **Trapper** selects [**Diplomat**](#diplomat) and it wins, **Trapper** claims its financial prize, but leaves its abilities untouched.
+- **Trapper** cannot choose itself or [**Crypto-tzar**](#crypto-tzar), [**Predictor**](#predictor), [**Protector**](#protector) и [**Scanner**](#scanner).
 
 
 [[вверх](#список-ролей)]
@@ -465,13 +456,13 @@ Activated by Attribute: Gravity Trap
 Activated by Attribute: Galactic Impulse
 ![Image](https://i.postimg.cc/4ykLF55G/Galactic-Impulse.jpg)
 
-Усиливает способности оставшихся атрибутов, увеличивая их возможности.
+Enhances the abilities of other attributes, boosting their potential.
 
-Если эта способность срабатывает у [**Trapper**](#trapper), то вместо 3 ролей он выбирает 6.
+For example:
+- If applied to [**Trapper**](#trapper), it allows selecting 6 roles instead of 3.
+- If applied to [**Headhunter**](#headhunter), the rewards increase significantly.
 
-Если у [**Headhunter**](#headhunter), то он получит увеличенную награду.&nbsp;
-
-Роль будет обновляться
+This role will be updated.
 
 [[вверх](#список-ролей)]
 
