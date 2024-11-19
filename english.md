@@ -197,10 +197,6 @@ Additionally, Main Geek owns a collection of NFTs that can be used in various se
 Activated by Attribute: Crown
 ![Image](https://i.postimg.cc/8cj3qc8d/crown.jpg)
 
-Владельцы атрибута Crown (Корона) особую роль. Если кто-то из них не выигрывает в общей лотерее, то проводится отдельная лотерея среди валдельцев роли **Crypto-tzar**, чтобы выявить &laquo;главного царя&raquo;.
-
-**Crypto-tzar** обладает правом требовать &laquo;десятину&raquo; &mdash; 10% от выигрыша тех, кто побеждает. Этот персонаж хитёр и независим, поэтому забирает свою часть выигрыша без колебаний. Механика действует только среди владельцев атрибута Crown, и на остальных участников сервера она не распространяется.
-
 Holders of the Crown attribute gain a special role. If none of the **Crypto-tzar** won in the #main-giveaway, a separate lottery is held among **Crypto-tzar**s holders to determine the “Main Tzar.”
 
 The **Crypto-tzar** has the right to claim a "tithe"—10% of the winnings from those who succeed. This character is clever and independent, claiming their share without hesitation. This mechanic applies exclusively to Crown attribute holders and does not affect other server members.
@@ -228,117 +224,111 @@ This destructive power cannot be triggered two months in a row. If the **Destroy
 Activated by Attribute: Cigarette
 ![Image](https://i.postimg.cc/d1pPQrjN/diplomat.jpg)
 
-Позволяет использовать свои реферальные ссылки в первые 6 часов после выхода видео от на ютюб-канале [DeFi Geek](https://www.youtube.com/@defigeek), и прокачиваться на своих рефералах. Победитель этой с этой ролью будет в тесном контакте с Главным Гиком весь месяц.
+This role allows holders to share their referral links during the first six hours after a video is released on the [DeFi Geek YouTube]((https://www.youtube.com/@defigeek)) channel, enabling them to grow their network through referrals. The winner with this role will work closely with Main Geek throughout the month.
 
-В лотерее может получать 50% от аллокации в IDO, для этого нужно сперва выигарать билелет на сервере и этот же билет должен выиграть в само IDO. Вознаграждение будет отправлено в несколко этапов.
-
-[[вверх](#список-ролей)]
+In the IDO lottery, holders can claim 50% of the allocation, provided they win a ticket on the server and that same ticket also wins in the IDO process. Rewards will be distributed in multiple stages.
 
 
 # Drop Harvester
 Activated by Attribute: Airdrop Cap
 ![Image](https://i.postimg.cc/GpDp13RC/airdrop-Cap.jpg)
 
-Главный Гик сделал специальный кошелек с дроп-портфелем, который претендует на различные дропы за эти токены. В случае получения дропов на этот аккаунт он имеет право на часть дропа.
-
-[[вверх](#список-ролей)]
+Main Geek has a special wallet designed to qualify for various token airdrops. If any airdrops are received by this wallet, holders of this role are entitled to a share of the rewards.
 
 
 # Gen1 member
 ![Image](https://i.postimg.cc/FsgPK09W/members.jpg)
 
+This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection. It grants access to most parts of the Discord-server and eligibility to participate in certain giveaways. However, all giveaway winnings are subject to a 10% tax, which is allocated to the [**Crypto-tzar**](#crypto-tzar) role.
 
-Эта роль для NFT из коллекции [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Она дает доступ к серверу DeFi Geeks. В этой коллекции три вида NFT.
+The collection includes three types of NFTs:
 
-Все выигрыши для этой роли облагаются налогом 10% в пользу роли [**Crypto-tzar**](#crypto-tzar).
+## Common (Blue): 9 000 units
+Grants access to the server and the ability to participate in giveaways.
 
+## Uncommon (Golden): 900 units
+Provides an additional role: **Solaris**.
+- **Giveaway Boost:** If you win a giveaway, your prize increases by 1.5x.
+- **Cashback:** You can exchange this NFT for a 10% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The exchange must be pre-approved.
+**VPN Discount:** Grants a 50% discount on VPN services.
 
-**Обычные (Common): 9 000 штук**Дают возможность участия в лотереях.
-
-**Золотистые (Uncommon): 900 штук**Дают дополнительную роль **Solaris**. - в случае выигрыша в лотерее приз увеличивается в 1,5 раза. - есть возможность обменять NFT на 10% кешбек на минт NFT из коллекции [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Покупку нужно согласовать заранее.- дают 50% скидку на VPN.
-
-**Редкие (Rare): 100 штук**Дают дополнительную роль **Indigo**.- в случае выигрыша в лотерее приз увеличивается в 2,5 раза. - есть возможность обменять NFT на 20% кешбек на минт NFT из коллекции [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Покупку нужно согласовать заранее.- бесплатный VPN
-
-[[вверх](#список-ролей)]
+## Rare (Indigo): 100 units 
+Provides an additional role:  **Indigo**.
+- **Giveaway Boost:** If you win a giveaway, your prize increases by 2.5x.
+- **Cashback:** You can exchange this NFT for a 20% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be pre-approved.
+- **VPN Discount:** Provides free VPN services.
 
 
 # Ghostwalker
 Activated by Attribute: Vaporiffic Outfit
 ![Image](https://i.postimg.cc/C1VxMyMf/dark.jpg)
 
-Самая редкая и самая желанная роль. Владелец этой NFT может иметь любое количество NFT из обоих коллекций на своем кошельке, тем самым получая получая их способности. Получает доступ ко всем чатам и веткам сервера.
-
-[[вверх](#список-ролей)]
+The most exclusive and highly sought-after role. Owners of this NFT can hold an unlimited number of NFTs from both collections in their wallet, thereby gaining access to all their abilities. This role also provides full access to all channels on the server.
 
 
 # Headhunter
 Activated by Attribute: Mystical Relic
 ![Image](https://i.postimg.cc/MGwGq2pf/mystical-Relict.jpg)
 
-Получает вознаграждение за привлечение пользователей на [Discord-сервер](https://discord.gg/b9N3Nsey) (подробности на сервере в ветке #headhunter).
+Earns rewards for bringing new users to the [Discord server](https://discord.gg/b9N3Nsey). For more details, check the **#headhunter** channel on the server.
 
-[[вверх](#список-ролей)]
+
 
 
 # Linker
 Activated by Attribute: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
 ![Image](https://i.postimg.cc/5NGYcRz8/Linker.jpg)
 
-Увеличивает лимит VPN до 60 ГБ и возможность выигрывать часть прибыли с продаж VPN-сервиса.
+Increases the VPN limit to 60 GB and provides the opportunity to earn a share of the profits from VPN service sales.
 
-[[вверх](#список-ролей)]
+
 
 
 # Librarian
 Activated by Attribute: Galactic Lore
 ![Image](https://i.postimg.cc/qR06b63Y/Librarian.jpg)
 
-Разрабатывает способности для гиков и получает вознаграждение за это. За принятое предложение получает вознаграждение.
+Develops abilities for roles on the server. Approved proposals earn the **Librarian** a reward.
 
-При выигрыше в главном гиве может пойти на созвон с Главным Гиком и обсудить любые вопросы тет-а-тет.
+If the **Librarian** wins the main-giveaway, he gain the opportunity to have a one-on-one call with the Main Geek to discuss any questions.
 
-[[вверх](#список-ролей)]
+
 
 
 # Looter
 Activated by Attribute: Brain Tubes, Thin Brain Tubes, Gold Brain Tubes.
 ![Image](https://i.postimg.cc/x88ChvTs/looter.jpg)
 
-Эта роль получает доступ ко всем атрибутам, которые есть у других Гиков NFT на голове, но только в том случае, если в лотерее победил [Destroyer](#destroyer).
+This role gains access to all head-related attributes from other Geek NFTs, but only if the [Destroyer](#destroyer) wins the main-giveaway.
 
-[[вверх](#список-ролей)]
+
 
 
 # Luckystrike
 Activated by Attribute: Luminous Red Diamond, Emerald Pendant
 ![Image](https://i.postimg.cc/vB5LcRXj/Red-Dimond-Emerald-Pendant.jpg)
 
-Усиливает шансы в лотереях. **Luckystrike** получает 1 дополнительный тикет (билет) для участия в любых розыгрышах.Т.е. суммарно у него получается 2 тикета.
-
-[[вверх](#список-ролей)]
+Grants an extra chance in giveaways. **Luckystrike** receives 1 additional ticket for all giveaways, giving them a total of 2 tickets.
 
 
 # Mindsmoker
 Activated by Attribute: Headsmoke
 ![Image](https://i.postimg.cc/d3sd1ZQd/headsmoker.jpg)
 
+This role actively participates in all server events, especially those related to NFTs. When the Main Geek secures access to a White List (WL) for any collection, holders of this role are given priority (there are only 8 of them). If the WL are fewer than 8, they are raffled among the role holders. If more, the first 8 spots go to these members, and the remaining spots are distributed among others.
 
-Эта роль активно участвует во всех движениях на сервере, особенно когда дело касается NFT. Если Главный Гик получает доступ к White List (WL) для какой-либо коллекции, они находятся в приоритете. Всего 8 NFT, которые дают такую роль. Если количество WL меньше 8, то они разыгрывают их между собой. Если больше - то первые 8 место получают эти ребята, а оставшиеся будут разыграны среди остальных.
-
-У роли есть своя "карма". Перед получение WL Главный Гик уточнит, планируете ли вы минтить данную коллекцию. Если вы подтвердили и выполнили - получаете плюс в карму, если нет - минус. Чем больше карма - тем ближе в очереди на получение WL в следующий раз.
-
-[[вверх](#список-ролей)]
+The role has a "karma" system. Before allocating WL spots, the Main Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
 
 
 # Mimic
 Activated by Attribute: ReFi Harmony Plant
 ![Image](https://i.postimg.cc/13fGwFGr/harmony-Plant.jpg)
 
-Позволяет раз в год копировать один атрибут другого NFT. Эта роль держит особое растение, которое даёт ему возможность скопировать любой понравившийся атрибут. При этом его собственные атрибуты остаются неизменными.
+This role holds a special plant that allows it to copy any desired attribute from other geeks while keeping its own attributes unchanged.
 
-Растение готово к использованию раз в год: 20 апреля каждого года (день халвинга биткойна). Владелец должен заранее выбрать, какой атрибут хочет скопировать, чтобы получить его в этот день.
+The plant becomes usable once a year, on April 20th (Bitcoin halving day). The owner must pre-select which attribute he want to copy in advance to acquire it on this date.
 
-Эффект длится ровно год. По истечении этого срока можно снова выбрать новый атрибут или оставить текущий. Если он решает выбрать новый, то предыдущий скопированный атрибут исчезает.
+The copied attribute remains active for exactly one year. After this period, the owner can either select a new attribute or keep the current one. If a new attribute is chosen, the previously copied one disappears.
 
 [[вверх](#список-ролей)]
 
@@ -347,7 +337,7 @@ Activated by Attribute: ReFi Harmony Plant
 Activated by Attribute: Galactic Navigator
 ![Image](https://i.postimg.cc/hGNpfrNm/galactic-Navigator.jpg)
 
-Вскрытие роли произойдет после окончания минта новой коллекции Defi Geeks Survivers.
+The role will be unlocked after the minting of the new Defi Geeks Survivors collection is complete.
 
 [[вверх](#список-ролей)]
 
@@ -356,7 +346,7 @@ Activated by Attribute: Galactic Navigator
 Activated by Attribute: Cyber Nerve.
 ![Image](https://i.postimg.cc/KjwVFbF6/Cyber-Nerve.jpg)
 
-Связан с нодами.
+Associated with blockchain nodes.
 
 [[вверх](#список-ролей)]
 
@@ -365,9 +355,7 @@ Activated by Attribute: Cyber Nerve.
 Activated by Attribute: Donation Jar
 ![Image](https://i.postimg.cc/xjNVxp9w/Donation-Jar.jpg)
 
-Претендует на донаты и не забранные призы. Этот гик побит жизнью, но не сломлен. Если сервер DeFi Geek получает донаты, обладатель этой роли может претендовать на них.
-
-Роль также получает призы, которые остались не востребованы. Например, если кто-то выиграл приз, но не забрал его вовремя, этот приз переходит к владельцу этой роли.
+Eligible for donations and unclaimed prizes. This geek may be battered by life but remains unbroken. If the Discord server receives donations, the holder of this role is eligible to claim part of them.
 
 [[вверх](#список-ролей)]
 
@@ -376,7 +364,7 @@ Activated by Attribute: Donation Jar
 Activated by Attribute: Portal
 ![Image](https://i.postimg.cc/8cx1YxY5/Portal.jpg)
 
-Получает бесплатные минты при запуске NFT Главным Гиком вне Stargaze.
+Gets free mints whenever the Main Geek launches NFTs outside Stargaze.
 
 [[вверх](#список-ролей)]
 
