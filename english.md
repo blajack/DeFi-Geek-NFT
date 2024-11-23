@@ -339,9 +339,13 @@ Grants an extra chance in giveaways. **Luckystrike** receives 1 additional ticke
 Activated by Attribute: Headsmoke
 ![Image](https://i.postimg.cc/d3sd1ZQd/headsmoker.jpg)
 
-This role actively participates in all server events, especially those related to NFTs. When the Main Geek secures access to a White List (WL) for any collection, holders of this role are given priority (there are only 8 of them). If the WL are fewer than 8, they are raffled among the role holders. If more, the first 8 spots go to these members, and the remaining spots are distributed among others.
+This role actively participates in all server activities, especially those related to NFTs. Initially, only 8 NFTs granted this role, giving holders priority access to any White List (WL).
 
-The role has a "karma" system. Before allocating WL spots, the Main Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
+With the release of the second collection NFT, the number of geeks with the **Mindsmoker** role has increased. **Mindsmokers** no longer have guaranteed access to WL spots. Instead, they now need to win them through giveaways.
+
+A significant portion of WL spots will still be reserved for **Mindsmokers**. The exact number of spots will depend on the specific collaboration with the NFT collection. So if you love the hype and activity surrounding NFTs, this role is definitely for you.
+
+The role has a "Karma" system. Before allocating WL spots, the Main Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
 
 [[up](#list-of-roles)]
 
