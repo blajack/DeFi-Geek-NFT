@@ -24,23 +24,39 @@
 <br><br>
 
 
-
 ![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
+<br><br>
+<br><br>
 
+Все розыгрыши (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
 # Для участия в GIVEAWAY можно держать только одну NFT из коллекции
-На сервере в ветках #main-giveaway и #dao-giveaway проходят лотереи (giveaway) для владельцев NFT из каждой коллекции.
 
-Это лотереи для владельцев гиков из коллекций [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). На одном аккаунте можно держать не более одного NFT из каждой. Аналогично - нельзя создавать несколько аккаунтов.
+### Запрещено
 
-**Нельзя держать две NFT и более  из этих коллекций на аккаунте - такие владельцы теряют возможность участвовать в лотереях. 
-Тоже самое будет с владельцами нескольких аккаунтов.
-Все читеры теряют возможность участия в розыгрышах.**
+- Держать **две NFT и более**  из одной коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) или [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens))
+- Создавать несколько аккаунтов.
 
-Исключение роль [Ghostwalker](#ghostwalker) - она дается если вам выпала NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens). Это NFT с темным гиком - самая редкая и позволяет держать любое количество гиков на аккаунте.
+  Все читеры теряют возможность участия в розыгрышах.
+<br><br>
+### Исключения
+- **Первое:** [Тёмный гик](#ghostwalker) - это самая редкая NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
+  Владельцы этой NFT могут держать любое количество NFT на своём аккаунте без потери права на участие в розыгрышах.
 
-Если у вас есть NFT из обоих коллекций с гиками (Defi Geeks и Defi Geeks Survivers), вы получаете роль **T-800.**
+- **Второе:** Если вы владеете одной NFT из каждой коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)), вы получаете роль **T-800**. Эта роль позволяет держать по одной NFT из каждой коллекции на одном аккаунте. 
 
-Из [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf)? можно держать любое количество NFT на аккаунте, но это не дает никаких преимуществ и лишено смысла, рекомендуется оставить одну.
+  Такое правило введено для повышения ценности первой коллекции. Добавив одну NFT из второй коллекции к любой NFT из первой коллекции, вы сможете участвовать в нескольких розыгрышах:
+  - Розыгрышах для первой коллекции (Set 1).
+  - Розыгрышах для второй коллекции (Set 2).
+  - Эксклюзивных розыгрышах для владельцев роли T-800 (одна NFT из обеих коллекций)
+ 
+  **Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf):** Вы можете держать неограниченное количество NFT из этой коллекции на аккаунте. Однако это не даёт дополнительных преимуществ и не имеет никакого смысла. Рекомендуется оставить только одну NFT. 
+<br><br>
+
+### Периодичность проведения розыгрышей
+
+- **Main Giveaway:** - проводится обязательно каждый месяц.
+- **T-800 и другие особые роли:** - зависят от различных обстоятельств и не проходят каждый месяц.
+<br><br>
 
 
 # **Атрибуты и роли**
@@ -116,6 +132,7 @@
 - [Diplomat](#diplomat)
 - [Destroyer](#destroyer)
 - [Drop Harvester](#drop-harvester)
+- [Ghostwalker](#ghostwalker)
 - [Headhunter](#headhunter)
 - [Librarian](#librarian)
 - [Linker](#linker)
@@ -453,6 +470,19 @@
 [[вверх](#список-ролей)]
 
 
+# Set1
+
+Дается всем владельцам NFT из первой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) 
+
+[[вверх](#список-ролей)]
+
+
+# Set2
+Дается всем владельцам NFT из вторй коллекци [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) 
+
+[[вверх](#список-ролей)]
+
+
 # Stargazer
 Активируется атрибутом: Tatoo Stars
 ![Image](https://i.postimg.cc/59XQPJYf/stars.jpg)
@@ -461,6 +491,16 @@
 
 [[вверх](#список-ролей)]
 
+
+# T-800
+
+Роль присваивается владельцам, которые имеют по одной NFT из обеих коллекций — [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
+
+Особенности роли T-800:
+- Исключение из правил участия в giveaway: обладатели роли могут держать на одном аккаунте по одной NFT из каждой коллекции, что позволяет им участвовать в нескольких розыгрышах одновременно.
+- Эксклюзивные розыгрыши для T-800: Специальные гивевеи, доступные только для владельцев роли T-800. Розыгрыши для роли T-800 не проводятся каждый месяц и зависят от различных обстоятельств, в отличие от Main Giveaway, который проходит ежемесячно.
+
+[[вверх](#список-ролей)]
 
 # Tia-master
 Активируется атрибутом: Celestia
