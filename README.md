@@ -35,7 +35,7 @@
 ### Запрещено
 
 - Держать **две NFT и более**  из одной коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) или [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens))
-- Создавать несколько аккаунтов.
+- Создавать **несколько аккаунтов**.
 
   Все читеры теряют возможность участия в розыгрышах.
 <br><br>
@@ -44,7 +44,7 @@
 - **Первое:** [Тёмный гик](#ghostwalker) - это самая редкая NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
   Владельцы этой NFT могут держать любое количество NFT на своём аккаунте без потери права на участие в розыгрышах.
 
-- **Второе:** Если вы владеете одной NFT из каждой коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)), вы получаете роль **T-800**. Эта роль позволяет держать по одной NFT из каждой коллекции на одном аккаунте. 
+- **Второе:** Если вы владеете одной NFT из каждой коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)), то получаете роль **T-800**. Она позволяет держать по одной NFT из каждой коллекции на одном аккаунте. 
 
   Такое правило введено для повышения ценности первой коллекции. Добавив одну NFT из второй коллекции к любой NFT из первой коллекции, вы сможете участвовать в нескольких розыгрышах:
   - Розыгрышах для первой коллекции ([Set 1](#set-1)).
