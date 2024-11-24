@@ -38,6 +38,7 @@
 
   Все читеры теряют возможность участия в розыгрышах.
 <br><br>
+
 ### Исключения
 - **Первое:** [Тёмный гик](#ghostwalker) - это самая редкая NFT из коллекции [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
   Владельцы этой NFT могут держать любое количество NFT на своём аккаунте без потери права на участие в розыгрышах.
