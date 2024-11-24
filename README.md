@@ -28,8 +28,9 @@
 <br><br>
 <br><br>
 
-Все розыгрыши (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
+
 # Для участия в GIVEAWAY можно держать только одну NFT из коллекции
+Все розыгрыши (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
 
 ### Запрещено
 
