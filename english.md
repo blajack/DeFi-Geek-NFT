@@ -111,16 +111,19 @@ The attributes of each NFT are displayed on its page beneath the image.
 
 # List of Roles
 Each user on the server can have multiple roles. Roles are assigned based on NFT attributes or a member's activity on the server (granted by administrators).
+
 - [Alchemist](#alchemist)
 - [Angel](#angel)
+- [Atom-master](#atom-master])
 - [Briber](#briber)
 - [Cosmic Gambler](#cosmic-gambler)
 - [Cosmoleaser](#cosmoleaser)
 - [Crypto Tzar](#crypto-tzar)
 - [Currency Master](#currency-master)
-- [Diplomat](#diplomat)
 - [Destroyer](#destroyer)
+- [Diplomat](#diplomat)
 - [Drop Harvester](#drop-harvester)
+- [Gen1 member](#gen1-member)
 - [Ghostwalker](#ghostwalker)
 - [Headhunter](#headhunter)
 - [Librarian](#librarian)
@@ -138,15 +141,16 @@ Each user on the server can have multiple roles. Roles are assigned based on NFT
 - [Protector](#protector)
 - [Punisher](#punisher)
 - [Reanimator](#reanimator)
+- [Scanner](#scanner)
 - [Set 1](#set-1)
 - [Set 2](#set-2)
-- [Scanner](#scanner)
 - [Stargazer](#stargazer)
 - [T-800](#t-800)
 - [Tia Master](#tia-master)
 - [Timelooper](#timelooper)
 - [Trapper](#trapper)
 - [Upgrader](#upgrader)
+
 
 # Alchemist
 Activated by Attribute: Cosmic Pump Potion
