@@ -474,14 +474,14 @@
 [[вверх](#список-ролей)]
 
 
-# Set1
+# Set-1
 
 Дается всем владельцам NFT из первой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) 
 
 [[вверх](#список-ролей)]
 
 
-# Set2
+# Set-2
 Дается всем владельцам NFT из вторй коллекци [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) 
 
 [[вверх](#список-ролей)]
