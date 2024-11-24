@@ -20,25 +20,39 @@ To help new members navigate the server, the Main Geek has created three detaile
 - Video 2: [NFT Attributes](https://youtu.be/0yUOt1LdksI)       
 - Video 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
 
-![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
 
+<br><br>
+<br><br>
+![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
+<br><br>
+<br><br>
+
+All giveaways are held on the Discord server in the #main-giveaway and #dao-giveaway channels.
 # The Main rule - to take part in a giveaway, you can hold only one NFT from the collection.
 
-Giveaways take place in the #main-giveaway and #dao-giveaway channels. 
+### Prohibited:
+- Holding two or more NFTs from the same collection (Defi Geeks or Defi Geeks Survivors).
+- Creating multiple accounts.
 
-**Key Rules:**
-- You can hold only one NFT from each collection on a single account.
-- Creating multiple accounts is prohibited.
-- Holding two or more NFTs from one collections on one account makes you ineligible for the giveaways.
-- Users who try to cheat with multiple accounts lose access to giveaways entirely.
+  All cheaters will permanently lose the ability to participate in giveaways.
 
-To participate, you can hold no more than one NFT from the [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collections on a single account.
+### Exceptions
+- **First:** [Dark Geek](#ghostwalker) - the rarest NFT from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)) collection. Holders of this NFT are granted the Ghostwalker role, which allows them to hold an unlimited number of NFTs on their account without losing eligibility for giveaways.
+- **Second:** If you own one NFT from each collection ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)), you receive the **T-800 role**. This role allows you to hold one NFT from each collection on the same account and still participate in giveaways.
 
-**Exception: Ghostwalker Role**
+  It was introduced to increase the value of the first collection. By adding one NFT from the second collection to any NFT from the first, you can participate in multiple giveaways:
+  - Giveaways for the first collection (Set 1).
+  - Giveaways for the second collection (Set 2).
+  - Exclusive giveaways for **T-800** holders (owning one NFT from both collections).
 
-If you own an NFT from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection featuring a dark geek (the rarest NFT), you earn the **Ghostwalker role**. This allows you to hold any number of NFTs on your account without restrictions.
+ 
+- **[DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection:** You can hold an unlimited number of NFTs from this collection on your account. However, this provides no additional benefits or advantages. It is recommended to keep only one NFT for practicality.
+<br><br>
 
-You can hold any number of NFTs from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection on your account. However, owning several doesn’t provide additional benefits and is generally recommended to keep only one.
+### Giveaway Frequency
+- **Main Giveaway:** Held every month without fail.
+- **T-800 and other special roles:** These giveaways depend on various circumstances and are not conducted every month.
+
 
 # Attributes and Roles
 
