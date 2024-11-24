@@ -126,14 +126,16 @@
 
 - [Alchemist](#alchemist)
 - [Angel](#angel)
+- [Atom-master](#atom-master])
 - [Briber](#briber)
 - [Cosmic Gambler](#cosmic-gambler)
 - [Cosmoleaser](#cosmoleaser)
 - [Crypto Tzar](#crypto-tzar)
 - [Currency Master](#currency-master)
-- [Diplomat](#diplomat)
 - [Destroyer](#destroyer)
+- [Diplomat](#diplomat)
 - [Drop Harvester](#drop-harvester)
+- [Gen1 member](#gen1-member)
 - [Ghostwalker](#ghostwalker)
 - [Headhunter](#headhunter)
 - [Librarian](#librarian)
@@ -160,6 +162,7 @@
 - [Timelooper](#timelooper)
 - [Trapper](#trapper)
 - [Upgrader](#upgrader)
+
 
 # Alchemist
 Активируется атрибутом: Cosmic Pump Potion
