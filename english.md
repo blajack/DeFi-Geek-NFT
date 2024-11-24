@@ -462,11 +462,11 @@ This role can detect and avoid traps set by [**Trapper**](#trapper).
 
 [[up](#list-of-roles)]
 
-# Set1
+# Set-1
 
 Granted to all NFT holders from the first collection: [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens).
 
-# Set2
+# Set-2
 
 Granted to all NFT holders from the second collection: [Defi Geeks Survivors](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
 
