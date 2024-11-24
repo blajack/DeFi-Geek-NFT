@@ -45,9 +45,9 @@
 - **Второе:** Если вы владеете одной NFT из каждой коллекции ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)), вы получаете роль **T-800**. Эта роль позволяет держать по одной NFT из каждой коллекции на одном аккаунте. 
 
   Такое правило введено для повышения ценности первой коллекции. Добавив одну NFT из второй коллекции к любой NFT из первой коллекции, вы сможете участвовать в нескольких розыгрышах:
-  - Розыгрышах для первой коллекции (Set 1).
-  - Розыгрышах для второй коллекции (Set 2).
-  - Эксклюзивных розыгрышах для владельцев роли T-800 (одна NFT из обеих коллекций)
+  - Розыгрышах для первой коллекции ([Set 1](#set-1)).
+  - Розыгрышах для второй коллекции ([Set 2](#set-2)).
+  - Эксклюзивных розыгрышах для владельцев роли [T-800](#t-800) (одна NFT из обеих коллекций)
  
   **Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf):** Вы можете держать неограниченное количество NFT из этой коллекции на аккаунте. Однако это не даёт дополнительных преимуществ и не имеет никакого смысла. Рекомендуется оставить только одну NFT. 
 <br><br>
@@ -150,7 +150,10 @@
 - [Punisher](#punisher)
 - [Reanimator](#reanimator)
 - [Scanner](#scanner)
+- [Set 1](#set-1)
+- [Set 2](#set-2)
 - [Stargazer](#stargazer)
+- [T-800](#t-800)
 - [Tia Master](#tia-master)
 - [Timelooper](#timelooper)
 - [Trapper](#trapper)
