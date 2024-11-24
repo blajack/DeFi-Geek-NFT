@@ -27,8 +27,9 @@ To help new members navigate the server, the Main Geek has created three detaile
 <br><br>
 <br><br>
 
-All giveaways are held on the Discord server in the #main-giveaway and #dao-giveaway channels.
+
 # The Main rule - to take part in a giveaway, you can hold only one NFT from the collection.
+All giveaways are held on the Discord server in the #main-giveaway and #dao-giveaway channels.
 
 ### Prohibited:
 - **Holding two or more** NFTs from the same collection ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)).
@@ -44,7 +45,7 @@ All giveaways are held on the Discord server in the #main-giveaway and #dao-give
   - Giveaways for the first collection ([Set 1](#set-1)).
   - Giveaways for the second collection ([Set 2](#set-2)).
   - Exclusive giveaways for [T-800 role](#t-800) holders (owning one NFT from both collections).
-
+<br>
  
 - **[DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection:** You can hold an unlimited number of NFTs from this collection on your account. However, this provides no additional benefits or advantages. It is recommended to keep only one NFT for practicality.
 <br><br>
@@ -462,13 +463,19 @@ This role can detect and avoid traps set by [**Trapper**](#trapper).
 
 [[up](#list-of-roles)]
 
+
 # Set-1
 
 Granted to all NFT holders from the first collection: [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens).
 
+[[up](#list-of-roles)]
+
+
 # Set-2
 
 Granted to all NFT holders from the second collection: [Defi Geeks Survivors](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
+
+[[up](#list-of-roles)]
 
 
 # Stargazer
@@ -481,11 +488,13 @@ Occasionally has a chance to win a percentage of sales on Stargaze. These raffle
 
 
 # T-800
-The T-800 role is assigned to holders who own one NFT from each collection — [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivors](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens.
+The T-800 role is assigned to holders who own one NFT from each collection — [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivors](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).
 
 Key Features of the **T-800** role:
 - **Exception to giveaway participation rules:** Holders of this role can keep one NFT from each collection on a single account, allowing them to participate in multiple giveaways simultaneously.
 - **Exclusive T-800 giveaways :** Special giveaways are available only for **T-800** role holders. These giveaways are not held every month and depend on various circumstances, unlike the Main Giveaway, which occurs monthly.
+
+[[up](#list-of-roles)]
 
 
 # Tia-master
