@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/ncBNvG5K/3.jpg" style="margin: 0 auto; width:90%; height:auto;" alt="Image">
 </div>
 
-The [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) collection and the second [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection, grant owners full access to a russian-speaking [Discord server](https://discord.gg/Rk7VVUbHWX), created by YouTuber [Defi Geek](https://www.youtube.com/@defigeek),known in the community as DeFi Geek or Main Geek.
+The [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) collection and the second [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection, grant owners full access to a russian-speaking [Discord server](https://discord.gg/Rk7VVUbHWX), created by YouTuber [Defi Geek](https://www.youtube.com/@defigeek),known in the community as DeFi Geek or Master Geek.
 
 > The [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection is the most affordable collection. It provides the [**Gen1 member**](#gen1-member) role, which keeps you updated on the latest news, activities, and airdrops. It also allows you to participate in giveaways. Depending on rarity, it offers additional [bonuses](#gen1-member). This is a starting point for exploring the community, and its low cost helps filter out inappropriate users.
 Owners of any [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) NFT also get a free VPN (30GB/month), working well even in China or Russia.
@@ -15,7 +15,7 @@ Each NFT in the collection has unique attributes that enhance participation in m
 # Discord Server
 The [Discord server](https://discord.gg/Rk7VVUbHWX) is a hub for announcements about airdrops, crypto news, giveaways, interviews with crypto projects, and friendly discussions. Enthusiasts gather weekly for poker games, and several giveaways are held monthly. Topics are divided into different channels to make it easier to find the information you need.
 
-To help new members navigate the server, the Main Geek has created three detailed guides:
+To help new members navigate the server, the Master Geek has created three detailed guides:
 - Video 1: [Introductions and Roles](https://youtu.be/s6S_VWan3sQ)       
 - Video 2: [NFT Attributes](https://youtu.be/0yUOt1LdksI)       
 - Video 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
@@ -164,7 +164,7 @@ This boost for both roles is active for one month only and cannot trigger two mo
 
 Plus, **Alchemist** has privileges in IDO with access to allocations and a chance to win additional prizes.
 
-Main Geek created a fund of 20,000 Eclipse to secure a guaranteed allocation of $500 and a chance to win an additional $1,250 through 16 tickets.
+Master Geek created a fund of 20,000 Eclipse to secure a guaranteed allocation of $500 and a chance to win an additional $1,250 through 16 tickets.
 
 Ticket Distribution:
 -  2 tickets – for [**Gen1 members**](#gen1-members)
@@ -174,7 +174,7 @@ Owners of the **Alchemist** role receive 7 of these tickets. If there are fewer 
 
 Winners will receive  a mini-ticket, which grants the right to purchase a part of the IDO tokens. The tokens will be unlocked in stages: initially 20-30%, with the remainder gradually released over the next few months. You can buy tokens right away, and the rest will be distributed later.
 
-To receive an allocation in Eclipse, you need to win twice: once in our giveaway and once in the distribution on the Eclipse platform. If you're lucky both times, you will need to transfer ~10-25 USDC to Main Geek to redeem the tokens. You won’t need to go through KYC or freeze funds — Main Geek has already done that for you.
+To receive an allocation in Eclipse, you need to win twice: once in our giveaway and once in the distribution on the Eclipse platform. If you're lucky both times, you will need to transfer ~10-25 USDC to Master Geek to redeem the tokens. You won’t need to go through KYC or freeze funds — Master Geek has already done that for you.
 
 [[up](#list-of-roles)]
 
@@ -201,7 +201,7 @@ If this geek wins a giveaway, his reward in ATOM increases in 5 times. His close
 Activated by Attribute: Defi Puppet
 ![Image](https://i.postimg.cc/503bx6kZ/Briber.jpg)
 
-Participates in advertising integrations on the server and acts as an ally to [**Destroyer**](#destroyer), avoiding his abilities. This role discusses and negotiates advertising integrations and, if approved by the Main Geek, receives 10% of their value.
+Participates in advertising integrations on the server and acts as an ally to [**Destroyer**](#destroyer), avoiding his abilities. This role discusses and negotiates advertising integrations and, if approved by the Master Geek, receives 10% of their value.
 
 [[up](#list-of-roles)]
 
@@ -219,9 +219,9 @@ Winning in poker tournaments increases the prize for this geek and grants additi
 Activated by Attribute: Celestial Disk
 ![Image](https://i.postimg.cc/K8BXG11J/Celestial-Disk.jpg)
 
-Main Geek has created a special wallet containing various NFTs for airdrops. If this wallet receives any airdrops, the Cosmoleaser roleholders are entitled to a share of the rewards.
+Master Geek has created a special wallet containing various NFTs for airdrops. If this wallet receives any airdrops, the Cosmoleaser roleholders are entitled to a share of the rewards.
 
-Additionally, Main Geek owns a collection of NFTs that can be used in various services. Many of these NFTs remain unused, and holders of this role can borrow them for a time.
+Additionally, Master Geek owns a collection of NFTs that can be used in various services. Many of these NFTs remain unused, and holders of this role can borrow them for a time.
 
 [[up](#list-of-roles)]
 
@@ -263,7 +263,7 @@ This destructive power cannot be triggered two months in a row. If the **Destroy
 Activated by Attribute: Cigarette
 ![Image](https://i.postimg.cc/d1pPQrjN/diplomat.jpg)
 
-This role allows holders to share their referral links during the first six hours after a video is released on the [DeFi Geek YouTube]((https://www.youtube.com/@defigeek)) channel, enabling them to grow their network through referrals. The winner with this role will work closely with Main Geek throughout the month.
+This role allows holders to share their referral links during the first six hours after a video is released on the [DeFi Geek YouTube]((https://www.youtube.com/@defigeek)) channel, enabling them to grow their network through referrals. The winner with this role will work closely with Master Geek throughout the month.
 
 In the IDO lottery, holders can claim 50% of the allocation, provided they win a ticket on the server and that same ticket also wins in the IDO process. Rewards will be distributed in multiple stages.
 
@@ -274,7 +274,7 @@ In the IDO lottery, holders can claim 50% of the allocation, provided they win a
 Activated by Attribute: Airdrop Cap
 ![Image](https://i.postimg.cc/GpDp13RC/airdrop-Cap.jpg)
 
-Main Geek has a special wallet designed to qualify for various token airdrops. If any airdrops are received by this wallet, holders of this role are entitled to a share of the rewards.
+Master Geek has a special wallet designed to qualify for various token airdrops. If any airdrops are received by this wallet, holders of this role are entitled to a share of the rewards.
 
 [[up](#list-of-roles)]
 
@@ -336,7 +336,7 @@ Activated by Attribute: Galactic Lore
 
 Develops abilities for roles on the server. Approved proposals earn the **Librarian** a reward.
 
-If the **Librarian** wins the main-giveaway, he gain the opportunity to have a one-on-one call with the Main Geek to discuss any questions.
+If the **Librarian** wins the main-giveaway, he gain the opportunity to have a one-on-one call with the Master Geek to discuss any questions.
 
 [[up](#list-of-roles)]
 
@@ -368,7 +368,7 @@ With the release of the second collection NFT, the number of geeks with the **Mi
 
 A significant portion of WL spots will still be reserved for **Mindsmokers**. The exact number of spots will depend on the specific collaboration with the NFT collection. So if you love the hype and activity surrounding NFTs, this role is definitely for you.
 
-The role has a "Karma" system. Before allocating WL spots, the Main Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
+The role has a "Karma" system. Before allocating WL spots, the Master Geek will ask if you plan to mint the collection. If you confirm and make it, you earn positive karma. If you fail to mint, you receive negative karma. The higher your karma, the higher your priority for WL allocation next time.
 
 [[up](#list-of-roles)]
 
@@ -417,7 +417,7 @@ Eligible for donations and unclaimed prizes. This geek may be battered by life b
 Activated by Attribute: Portal
 ![Image](https://i.postimg.cc/8cx1YxY5/Portal.jpg)
 
-Gets free mints whenever the Main Geek launches NFTs outside Stargaze.
+Gets free mints whenever the Master Geek launches NFTs outside Stargaze.
 
 [[up](#list-of-roles)]
 
@@ -430,7 +430,7 @@ The **Predictor** role is immune to traps set by the [**Trapper**](#trapper).
 
 During giveaways, **Predictor** gets increased odds of winning by receiving two tickets. In total 3 tickets instead of one.
 
-Additionally, if the Main Geek’s account wins an IDO ticket that fully belongs to him, the **Predictor** can purchase 25% of that win. Details on IDOs can be found under [**Alchemist**](#alchemist), who also competes for this reward.
+Additionally, if the Master Geek’s account wins an IDO ticket that fully belongs to him, the **Predictor** can purchase 25% of that win. Details on IDOs can be found under [**Alchemist**](#alchemist), who also competes for this reward.
 
 [[up](#list-of-roles)]
 
