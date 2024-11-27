@@ -377,7 +377,7 @@ The role has a "Karma" system. Before allocating WL spots, the Master Geek will 
 Activated by Attribute: ReFi Harmony Plant
 ![Image](https://i.postimg.cc/13fGwFGr/harmony-Plant.jpg)
 
-This role holds a special plant that allows it to copy any desired attribute from other geeks while keeping its own attributes unchanged.
+This role holds a special plant that allows it to copy any desired attribute from other geeks (except for the role of [Ghostwalker](#ghostwalker)) while keeping its own attributes unchanged.
 
 The plant becomes usable once a year, on April 20th (Bitcoin halving day). The owner must pre-select which attribute he want to copy in advance to acquire it on this date.
 
