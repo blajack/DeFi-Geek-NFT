@@ -265,7 +265,11 @@ Activated by Attribute: Cigarette
 
 This role allows holders to share their referral links during the first six hours after a video is released on the [DeFi Geek YouTube]((https://www.youtube.com/@defigeek)) channel, enabling them to grow their network through referrals. The winner with this role will work closely with Master Geek throughout the month.
 
-In the IDO lottery, holders can claim 50% of the allocation, provided they win a ticket on the server and that same ticket also wins in the IDO process. Rewards will be distributed in multiple stages.
+If the Master Geek earns rewards for bringing in referrals to a project, the Diplomat is the first in line to claim a share of those rewards.
+
+ holders can claim 50% of the allocation, provided they win a ticket on the server and that same ticket also wins in the IDO process. Rewards will be distributed in multiple stages.
+
+In the IDO lottery, the Diplomat can receive 50% of an IDO allocation. To do so, they must first win a ticket on the server, and that ticket must also win in the IDO itself. Rewards will be distributed in several stages. Note that the [Alchemist](#alchemist) role has priority in this activity—check their description for details.
 
 [[up](#list-of-roles)]
 
