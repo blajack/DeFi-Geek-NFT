@@ -35,7 +35,7 @@ To help new members navigate the server, the Master Geek has created three detai
 
 
 # The Main rule - to take part in a giveaway, you can hold only one NFT from the collection.
-All giveaways are held on the Discord server in the #main-giveaway and #dao-giveaway channels.
+All giveaways are held on the [Discord server](https://discord.gg/Rk7VVUbHWX) in the #main-giveaway and #dao-giveaway channels.
 
 ### Prohibited:
 - **Holding two or more** NFTs from the same collection ([Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens)).
@@ -313,7 +313,7 @@ Master Geek has a special wallet designed to qualify for various token airdrops.
 # Gen1 member
 ![Image](https://i.postimg.cc/FsgPK09W/members.jpg)
 
-This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection. It grants access to most parts of the Discord-server and eligibility to participate in certain giveaways. However, all giveaway winnings are subject to a 10% tax, which is allocated to the [**Crypto-tzar**](#crypto-tzar) role.
+This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection. It grants access to most parts of the [Discord server](https://discord.gg/Rk7VVUbHWX) and eligibility to participate in certain giveaways. However, all giveaway winnings are subject to a 10% tax, which is allocated to the [**Crypto-tzar**](#crypto-tzar) role.
 
 The collection includes three types of NFTs:
 
@@ -347,7 +347,7 @@ The most exclusive and highly sought-after role. Owners of this NFT can hold an 
 Activated by Attribute: Mystical Relic
 ![Image](https://i.postimg.cc/MGwGq2pf/mystical-Relict.jpg)
 
-Earns rewards for bringing new users to the [Discord server](https://discord.gg/b9N3Nsey). For more details, check the **#headhunter** channel on the server.
+Earns rewards for bringing new users to the [Discord server](https://discord.gg/Rk7VVUbHWX). For more details, check the **#headhunter** channel on the server.
 
 [[up](#list-of-roles)]
 
@@ -439,7 +439,7 @@ Associated with blockchain nodes.
 Activated by Attribute: Donation Jar
 ![Image](https://i.postimg.cc/xjNVxp9w/Donation-Jar.jpg)
 
-Eligible for donations and unclaimed prizes. This geek may be battered by life but remains unbroken. If the Discord server receives donations, the holder of this role is eligible to claim part of them.
+Eligible for donations and unclaimed prizes. This geek may be battered by life but remains unbroken. If the [Discord server](https://discord.gg/Rk7VVUbHWX) receives donations, the holder of this role is eligible to claim part of them.
 
 [[up](#list-of-roles)]
 
