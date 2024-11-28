@@ -226,7 +226,7 @@
 
 # Btcz Maxi
 Активируется атрибутом: Bitcoin
-![Image](assets/img/_BTC.jpg)
+![Image](https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/_BTC.jpg)
 
 Главный Гик считает, что "правильный BTC" — это Zcash, который, как биткоин, имеет ограниченное предложение в 21 млн, но при этом обеспечивает конфиденциальность.  
 
