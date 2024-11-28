@@ -219,7 +219,7 @@ Activated by the attribute: Bitcoin
 
 The Master Geek believes the "real BTC" is Zcash, which, like Bitcoin, has a limited supply of 21 million but provides enhanced privacy.  
 
-If this role wins a giveaway, the holder receives **$20 in Zcash** via a shielded transaction. (Winners must install Zashi and provide a shielded address).  
+If this role wins a main-giveaway, the holder receives **$20 in Zcash** via a shielded transaction. (Winners must install Zashi and provide a shielded address).  
 
 - **Cumulative Effect:** Rewards increase with consecutive wins:  
   - 1st win: **$20**  
