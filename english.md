@@ -215,10 +215,7 @@ Participates in advertising integrations on the server and acts as an ally to [*
 
 # Btcz Maxi  
 Activated by the attribute: Bitcoin  
-![Image](./assets/img/_BTC.jpg)
-![Image](/assets/img/_BTC.jpg) 
-![Image](assets/img/_BTC.jpg) 
-
+![Image]([./assets/img/_BTC.jpg](https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/_BTC.jpg))
 
 The Master Geek believes the "real BTC" is Zcash, which, like Bitcoin, has a limited supply of 21 million but provides enhanced privacy.  
 
