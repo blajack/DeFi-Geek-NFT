@@ -78,6 +78,7 @@ The attributes of each NFT are displayed on its page beneath the image.
 - [Alien Starborn Planet](#reanimator)
 - [Atom](#atom-master)
 - [Antenna](#linker)
+- [Bitcoin](#btcz-maxi)
 - [Bluffing Cap](#cosmic-gambler)
 - [Brain Tubes](#looter)
 - [Broken Nebular Transmitter](#linker)
@@ -121,6 +122,7 @@ Each user on the server can have multiple roles. Roles are assigned based on NFT
 - [Alchemist](#alchemist)
 - [Angel](#angel)
 - [Atom-master](#atom-master])
+- [Btcz Maxi](#btcz-maxi)
 - [Briber](#briber)
 - [Cosmic Gambler](#cosmic-gambler)
 - [Cosmoleaser](#cosmoleaser)
@@ -210,6 +212,25 @@ Activated by Attribute: Defi Puppet
 Participates in advertising integrations on the server and acts as an ally to [**Destroyer**](#destroyer), avoiding his abilities. This role discusses and negotiates advertising integrations and, if approved by the Master Geek, receives 10% of their value.
 
 [[up](#list-of-roles)]
+
+# Btcz Maxi  
+Activated by the attribute: Bitcoin  
+![Image](/assets/img/_BTC.jpg)  
+
+The Master Geek believes the "real BTC" is Zcash, which, like Bitcoin, has a limited supply of 21 million but provides enhanced privacy.  
+
+If this role wins a lottery, the holder receives **$20 in Zcash** via a shielded transaction. (Winners must install Zashi and provide a shielded address).  
+
+- **Cumulative Effect:** Rewards increase with consecutive wins:  
+  - 1st win: **$20**  
+  - 2nd consecutive win: **$40**  
+  - 3rd consecutive win: **$80**  
+  - 4th consecutive win: **$160**  
+  - 5th consecutive win: **$320** (maximum reward reached).  
+
+**Note:** This role is connected to Bitcoin; further details will be announced later.  
+
+
 
 
 # Cosmic Gambler
