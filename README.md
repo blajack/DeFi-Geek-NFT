@@ -21,16 +21,23 @@
 - Видео 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
 
 <br><br>
+
+# Приводи друзей – получай кешбек!
+- За каждого друга, который сминтит NFT из коллекции [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf), вы получаете 25% кешбека от стоимости минта.
+- Если у вас есть роль [Headhunter](#headhunter), кешбек увеличивается до 50%.
+- Как только приводите 10 друзей - создайте тикет на сервере, чтобы запросить кешбек.
+
+  Бонус: Ваши друзья тоже станут частью нашего сообщества и получат доступ ко всем возможностям сервера, включая участие в лотереях!
+
 <br><br>
-
-
+<br><br>
 ![Image](https://i.postimg.cc/fyKPSS56/Default-A-horizontal-banner-for-a-blog-with-the-title-Giveaway-0.jpg)
 <br><br>
 <br><br>
 
 
 # Для участия в GIVEAWAY можно держать только одну NFT из коллекции
-Все розыгрыши (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
+Все лотереи (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
 
 ### Запрещено
 
