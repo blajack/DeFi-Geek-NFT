@@ -37,7 +37,7 @@
 
 
 # Для участия в GIVEAWAY можно держать только одну NFT из коллекции
-Все лотереи (giveaway) проходят на сервере Discord в ветках **#main-giveaway** и **#dao-giveaway**.
+Все лотереи (giveaway) проходят на [Discord-сервере](https://discord.gg/Rk7VVUbHWX) в ветках **#main-giveaway** и **#dao-giveaway**.
 
 ### Запрещено
 
@@ -323,7 +323,7 @@
 ![Image](https://i.postimg.cc/FsgPK09W/members.jpg)
 
 
-Эта роль для NFT из коллекции [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Она дает доступ к серверу DeFi Geeks. В этой коллекции три вида NFT.
+Эта роль для NFT из коллекции [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Она так же дает доступ к [Discord-серверу](https://discord.gg/Rk7VVUbHWX). В этой коллекции три вида NFT.
 
 Все выигрыши для этой роли облагаются налогом 10% в пользу роли [**Crypto-tzar**](#crypto-tzar).
 
