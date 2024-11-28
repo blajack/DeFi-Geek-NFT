@@ -19,7 +19,13 @@ To help new members navigate the server, the Master Geek has created three detai
 - Video 1: [Introductions and Roles](https://youtu.be/s6S_VWan3sQ)       
 - Video 2: [NFT Attributes](https://youtu.be/0yUOt1LdksI)       
 - Video 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
+<br><br>
+# Invite Friends – Get Cashback!  
+- For every friend who mints an NFT from the collection [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf), you’ll receive **25% cashback** of the mint cost.  
+- If you have the role [Headhunter](#headhunter), your cashback increases to **50%**.  
+- Once you invite **10 friends**, create a ticket on the server to claim your cashback.  
 
+**Bonus:** Your friends will also join our community and gain access to all the server’s features, including participation in giveaways!
 
 <br><br>
 <br><br>
