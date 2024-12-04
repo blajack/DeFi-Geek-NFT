@@ -338,7 +338,9 @@ Provides an additional role:  **Indigo**.
 Activated by Attribute: Vaporiffic Outfit
 ![Image](https://i.postimg.cc/C1VxMyMf/dark.jpg)
 
-The most exclusive and highly sought-after role. Owners of this NFT can hold an unlimited number of NFTs from both collections in their wallet, thereby gaining access to all their abilities. This role also provides full access to all channels on the server.
+The rarest and most coveted role. The owner of this NFT can hold any number of NFTs from both collections in their wallet, thereby gaining their abilities. This role grants access to all chats and threads on the server.
+
+If **Ghostwalker** wins the main giveaway, the owner can choose any Geek (NFT) from their collection, and the abilities of that specific character will activate within the main giveaway. **Ghostwalker** also has the right to decline choosing anyone and simply claim their prize.
 
 [[up](#list-of-roles)]
 
