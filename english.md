@@ -166,6 +166,8 @@ Activated by Attribute: Cosmic Pump Potion
 
 Increases giveaway chances. If an **Alchemist** wins in the #main-giveaway, he receive 6 additional tickets for any giveaways in the following month. Also the **Alchemist** can select one additional role to receive the same 6 extra tickets for the next giveaways. 
 
+However, since **Alchemist** is a kind-hearted geek, his beliefs prevent him from choosing bad geeks: [Destroyer](#destroyer), [Trapper](#trapper), or [Punisher](#punisher).
+
 Example: If the Alchemist grants the extra tickets to the [**Predictor**](#predictor) role, the [**Predictor**](#predictor) will have 8 tickets (2 from its own attributes + 6 additional).
 
 This boost for both roles is active for one month only and cannot trigger two months in a row. If the **Alchemist** wins the #main-giveaway again on next month, he simply claim the prize, and the boost does not activate.
