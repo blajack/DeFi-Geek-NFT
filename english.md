@@ -318,18 +318,20 @@ The collection includes three types of NFTs:
 
 ### Common (Blue): 9 000 units
 Grants access to the server and the ability to participate in giveaways.
-
+  
 ### Uncommon (Golden): 900 units
-Provides an additional role: **Solaris**.
-- **Giveaway Boost:** If you win a giveaway, your prize increases by 1.5x.
-- **Cashback:** You can exchange this NFT for a 10% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The exchange must be pre-approved.
-- **VPN Discount:** Grants a 50% discount on VPN services.
+Provides an additional role: **Solaris**. 
+- **3x higher chance** to win during giveaways! They receive two additional tickets during giveaways, for a total of **three tickets** instead of one.  
+- If they win a giveaway, the prize is **increased by 1.5x**.  
+- They can exchange the NFT for a **10% cashback** on minting NFTs from the [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be agreed upon in advance.  
+- Grants a **50% discount** on VPN services.  
 
 ### Rare (Indigo): 100 units 
 Provides an additional role:  **Indigo**.
-- **Giveaway Boost:** If you win a giveaway, your prize increases by 2.5x.
-- **Cashback:** You can exchange this NFT for a 20% cashback on minting NFTs from the [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be pre-approved.
-- **VPN Discount:** Provides free VPN services.
+- **5x higher chance** to win during giveaways! They receive four additional tickets during giveaways, for a total of **five tickets** instead of one.  
+- If they win a giveaway, the prize is **increased by 2.5x**.  
+- They can exchange the NFT for a **20% cashback** on minting NFTs from the [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be agreed upon in advance.  
+- Grants **free VPN access** with **30GB per month**.  
 
 [[up](#list-of-roles)]
 
