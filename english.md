@@ -533,6 +533,7 @@ The T-800 role is assigned to holders who own one NFT from each collection — [
 Key Features of the **T-800** role:
 - **Exception to giveaway participation rules:** Holders of this role can keep one NFT from each collection on a single account, allowing them to participate in multiple giveaways simultaneously.
 - **Exclusive T-800 giveaways :** Special giveaways are available only for **T-800** role holders. These giveaways are not held every month and depend on various circumstances, unlike the Main Giveaway, which occurs monthly.
+- If **T-800** wins the main giveaway, the owner can choose any Geek (NFT) from their collection, and the abilities of that specific character will activate within the main giveaway. **T-800** also has the right to decline choosing anyone and simply claim their prize.
 
 [[up](#list-of-roles)]
 
