@@ -325,15 +325,22 @@ Grants access to the server and the ability to participate in giveaways.
 Provides an additional role: **Solaris**. 
 - **3x higher chance** to win during giveaways! They receive two additional tickets during giveaways, for a total of **three tickets** instead of one.  
 - If they win a giveaway, the prize is **increased by 1.5x**.  
-- They can exchange the NFT for a **10% cashback** on minting NFTs from the [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be agreed upon in advance.  
-- Grants a **50% discount** on VPN services.  
+- Grants a **50% discount** on VPN services.
+- Cashback opportunities for purchasing NFTs from Geek collections:  
+  - **10%** cashback on NFTs from the [DeFi Geeks collection](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens).  
+  - **7%** cashback on NFTs from the [DeFi Geeks 2 collection](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).  
+  - **Approval required !** Purchases must be pre-approved through a ticket. After purchase, the NFT must be sent to the Master Geek for burning.  
 
 ### Rare (Indigo): 100 units 
 Provides an additional role:  **Indigo**.
 - **5x higher chance** to win during giveaways! They receive four additional tickets during giveaways, for a total of **five tickets** instead of one.  
 - If they win a giveaway, the prize is **increased by 2.5x**.  
-- They can exchange the NFT for a **20% cashback** on minting NFTs from the [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection. The purchase must be agreed upon in advance.  
-- Grants **free VPN access** with **30GB per month**.  
+- Grants **free VPN access** with **30GB per month**.
+- Cashback opportunities for purchasing NFTs from Geek collections:  
+  - **20%** cashback on NFTs from the [DeFi Geeks collection](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens).  
+  - **15%** cashback on NFTs from the [DeFi Geeks 2 collection](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens).  
+  - **Approval required !** Purchases must be pre-approved through a ticket. After purchase, the NFT must be sent to the Master Geek for burning.  
+  
 
 [[up](#list-of-roles)]
 
