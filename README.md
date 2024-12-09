@@ -611,11 +611,12 @@
 
 [[вверх](#список-ролей)]
 
+
 # Список атрибутов
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
 
-<div style="flex: 1; min-width: 200px;">
+<div>
 <ul>
 <li><a href="#drop-harvester">Airdrop Cap</a></li>
 <li><a href="#reanimator">Alien Starborn Planet</a></li>
@@ -638,7 +639,7 @@
 </ul>
 </div>
 
-<div style="flex: 1; min-width: 200px;">
+<div>
 <ul>
 <li><a href="#destroyer">Exoplanetary Devastation</a></li>
 <li><a href="#scanner">Focusers</a></li>
