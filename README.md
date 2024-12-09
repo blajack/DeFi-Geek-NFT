@@ -610,3 +610,61 @@
 Роль будет обновляться
 
 [[вверх](#список-ролей)]
+
+# Список атрибутов
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 200px;">
+<ul>
+<li><a href="#drop-harvester">Airdrop Cap</a></li>
+<li><a href="#reanimator">Alien Starborn Planet</a></li>
+<li><a href="#atom-master">Atom</a></li>
+<li><a href="#linker">Antenna</a></li>
+<li><a href="#btcz-maxi">Bitcoin</a></li>
+<li><a href="#cosmic-gambler">Bluffing Cap</a></li>
+<li><a href="#looter">Brain Tubes</a></li>
+<li><a href="#linker">Broken Nebular Transmitter</a></li>
+<li><a href="#cosmoleaser">Celestial Disk</a></li>
+<li><a href="#tia-master">Celestia</a></li>
+<li><a href="#diplomat">Cigarette</a></li>
+<li><a href="#alchemist">Cosmic Pump Potion</a></li>
+<li><a href="#crypto-tzar">Crown</a></li>
+<li><a href="#nodelord">Cyber Nerve</a></li>
+<li><a href="#currency-master">DeFi Geek Master</a></li>
+<li><a href="#briber">Defi Puppet</a></li>
+<li><a href="#orbital-survivor">Donation Jar</a></li>
+<li><a href="#luckystrike">Emerald Pendant</a></li>
+</ul>
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+<ul>
+<li><a href="#destroyer">Exoplanetary Devastation</a></li>
+<li><a href="#scanner">Focusers</a></li>
+<li><a href="#upgrader">Galactic Impulse</a></li>
+<li><a href="#librarian">Galactic Lore</a></li>
+<li><a href="#navigator">Galactic Navigator</a></li>
+<li><a href="#looter">Gold Brain Tubes</a></li>
+<li><a href="#trapper">Gravity Trap</a></li>
+<li><a href="#mindsmoker">Headsmoke</a></li>
+<li><a href="#predictor">Holographic Essence</a></li>
+<li><a href="#linker">Link Controller</a></li>
+<li><a href="#luckystrike">Luminous Red Diamond</a></li>
+<li><a href="#headhunter">Mystical Relic</a></li>
+<li><a href="#linker">Nebular Transmitter</a></li>
+<li><a href="#angel">Nimb</a></li>
+<li><a href="#punisher">Phantom Punisher</a></li>
+<li><a href="#portal-jumper">Portal</a></li>
+<li><a href="#mimic">ReFi Harmony Plant</a></li>
+<li><a href="#currency-master">Scarf</a></li>
+<li><a href="#protector">Solar Shields</a></li>
+<li><a href="#stargazer">Tatoo Stars</a></li>
+<li><a href="#looter">Thin Brain Tubes</a></li>
+<li><a href="#timelooper">Time Swapper</a></li>
+<li><a href="#ghostwalker">Vaporiffic Outfit</a></li>
+</ul>
+</div>
+
+</div>
+
