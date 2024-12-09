@@ -142,7 +142,6 @@
 
 # Список ролей
 На сервере у каждого участника может быть несколько ролей. Роли присуждаются в зависимости от атрибутов NFT или от активности участника на сервере (выдается Главным Гиком).
-
 - [Alchemist](#alchemist)
 - [Angel](#angel)
 - [Atom-master](#atom-master])
@@ -182,6 +181,8 @@
 - [Timelooper](#timelooper)
 - [Trapper](#trapper)
 - [Upgrader](#upgrader)
+
+
 
 
 # Alchemist
@@ -622,7 +623,7 @@
 
 [[вверх](#список-ролей)]
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; grid-auto-flow: dense;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0; grid-auto-flow: dense;">
   <ul>
     <li><a href="#alchemist">Alchemist</a></li>
     <li><a href="#angel">Angel</a></li>
@@ -667,6 +668,5 @@
     <li><a href="#upgrader">Upgrader</a></li>
   </ul>
 </div>
-
 
 
