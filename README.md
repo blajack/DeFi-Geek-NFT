@@ -614,7 +614,7 @@
 
 # Список атрибутов
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; grid-auto-flow: dense;">
 
 <div>
 <ul>
