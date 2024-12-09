@@ -86,47 +86,58 @@
 
 
 # Список атрибутов
-- [Airdrop Cap](#drop-harvester)
-- [Alien Starborn Planet](#reanimator)
-- [Atom](#atom-master)
-- [Antenna](#linker)
-- [Bitcoin](#btcz-maxi)
-- [Bluffing Cap](#cosmic-gambler)
-- [Brain Tubes](#looter)
-- [Broken Nebular Transmitter](#linker)
-- [Celestial Disk](#cosmoleaser)
-- [Celestia](#tia-master)
-- [Cigarette](#diplomat)
-- [Cosmic Pump Potion](#alchemist)
-- [Crown](#crypto-tzar)
-- [Cyber Nerve](#nodelord)
-- [DeFi Geek Master](#currency-master)
-- [Defi Puppet](#briber)
-- [Donation Jar](#orbital-survivor)
-- [Emerald Pendant](#luckystrike)
-- [Exoplanetary Devastation](#destroyer)
-- [Focusers](#scanner)
-- [Galactic Impulse](#upgrader)
-- [Galactic Lore](#librarian)
-- [Galactic Navigator](#navigator)
-- [Gold Brain Tubes](#looter)
-- [Gravity Trap](#trapper)
-- [Headsmoke](#mindsmoker)
-- [Holographic Essence](#predictor)
-- [Link Controller](#linker)
-- [Luminous Red Diamond](#luckystrike) 
-- [Mystical Relic](#headhunter)
-- [Nebular Transmitter](#linker)
-- [Nimb](#angel)
-- [Phantom Punisher](#punisher)
-- [Portal](#portal-jumper)
-- [ReFi Harmony Plant](#mimic)
-- [Scarf](#currency-master)
-- [Solar Shields](#protector)
-- [Tatoo Stars](#stargazer)
-- [Thin Brain Tubes](#looter)
-- [Time Swapper](#timelooper)
-- [Vaporiffic Outfit](#ghostwalker)
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0; grid-auto-flow: dense;">
+<div>
+<ul>
+<li><a href="#drop-harvester">Airdrop Cap</a></li>
+<li><a href="#reanimator">Alien Starborn Planet</a></li>
+<li><a href="#atom-master">Atom</a></li>
+<li><a href="#linker">Antenna</a></li>
+<li><a href="#btcz-maxi">Bitcoin</a></li>
+<li><a href="#cosmic-gambler">Bluffing Cap</a></li>
+<li><a href="#looter">Brain Tubes</a></li>
+<li><a href="#linker">Broken Nebular Transmitter</a></li>
+<li><a href="#cosmoleaser">Celestial Disk</a></li>
+<li><a href="#tia-master">Celestia</a></li>
+<li><a href="#diplomat">Cigarette</a></li>
+<li><a href="#alchemist">Cosmic Pump Potion</a></li>
+<li><a href="#crypto-tzar">Crown</a></li>
+<li><a href="#nodelord">Cyber Nerve</a></li>
+<li><a href="#currency-master">DeFi Geek Master</a></li>
+<li><a href="#briber">Defi Puppet</a></li>
+<li><a href="#orbital-survivor">Donation Jar</a></li>
+<li><a href="#luckystrike">Emerald Pendant</a></li>
+<li><a href="#destroyer">Exoplanetary Devastation</a></li>
+<li><a href="#scanner">Focusers</a></li>
+<li><a href="#upgrader">Galactic Impulse</a></li>
+</ul>
+</div>
+<div>
+<ul>  
+<li><a href="#librarian">Galactic Lore</a></li>
+<li><a href="#navigator">Galactic Navigator</a></li>
+<li><a href="#looter">Gold Brain Tubes</a></li>
+<li><a href="#trapper">Gravity Trap</a></li>
+<li><a href="#mindsmoker">Headsmoke</a></li>
+<li><a href="#predictor">Holographic Essence</a></li>
+<li><a href="#linker">Link Controller</a></li>
+<li><a href="#luckystrike">Luminous Red Diamond</a></li>
+<li><a href="#headhunter">Mystical Relic</a></li>
+<li><a href="#linker">Nebular Transmitter</a></li>
+<li><a href="#angel">Nimb</a></li>
+<li><a href="#punisher">Phantom Punisher</a></li>
+<li><a href="#portal-jumper">Portal</a></li>
+<li><a href="#mimic">ReFi Harmony Plant</a></li>
+<li><a href="#currency-master">Scarf</a></li>
+<li><a href="#protector">Solar Shields</a></li>
+<li><a href="#stargazer">Tatoo Stars</a></li>
+<li><a href="#looter">Thin Brain Tubes</a></li>
+<li><a href="#timelooper">Time Swapper</a></li>
+<li><a href="#ghostwalker">Vaporiffic Outfit</a></li>
+</ul>
+</div>
+</div>
 
 
 # Список ролей
@@ -611,61 +622,51 @@
 
 [[вверх](#список-ролей)]
 
-
-# Список атрибутов
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0; grid-auto-flow: dense;">
-
-
-<div>
-<ul>
-<li><a href="#drop-harvester">Airdrop Cap</a></li>
-<li><a href="#reanimator">Alien Starborn Planet</a></li>
-<li><a href="#atom-master">Atom</a></li>
-<li><a href="#linker">Antenna</a></li>
-<li><a href="#btcz-maxi">Bitcoin</a></li>
-<li><a href="#cosmic-gambler">Bluffing Cap</a></li>
-<li><a href="#looter">Brain Tubes</a></li>
-<li><a href="#linker">Broken Nebular Transmitter</a></li>
-<li><a href="#cosmoleaser">Celestial Disk</a></li>
-<li><a href="#tia-master">Celestia</a></li>
-<li><a href="#diplomat">Cigarette</a></li>
-<li><a href="#alchemist">Cosmic Pump Potion</a></li>
-<li><a href="#crypto-tzar">Crown</a></li>
-<li><a href="#nodelord">Cyber Nerve</a></li>
-<li><a href="#currency-master">DeFi Geek Master</a></li>
-<li><a href="#briber">Defi Puppet</a></li>
-<li><a href="#orbital-survivor">Donation Jar</a></li>
-<li><a href="#luckystrike">Emerald Pendant</a></li>
-<li><a href="#destroyer">Exoplanetary Devastation</a></li>
-<li><a href="#scanner">Focusers</a></li>
-<li><a href="#upgrader">Galactic Impulse</a></li>
-</ul>
-</div>
-<div>
-<ul>  
-<li><a href="#librarian">Galactic Lore</a></li>
-<li><a href="#navigator">Galactic Navigator</a></li>
-<li><a href="#looter">Gold Brain Tubes</a></li>
-<li><a href="#trapper">Gravity Trap</a></li>
-<li><a href="#mindsmoker">Headsmoke</a></li>
-<li><a href="#predictor">Holographic Essence</a></li>
-<li><a href="#linker">Link Controller</a></li>
-<li><a href="#luckystrike">Luminous Red Diamond</a></li>
-<li><a href="#headhunter">Mystical Relic</a></li>
-<li><a href="#linker">Nebular Transmitter</a></li>
-<li><a href="#angel">Nimb</a></li>
-<li><a href="#punisher">Phantom Punisher</a></li>
-<li><a href="#portal-jumper">Portal</a></li>
-<li><a href="#mimic">ReFi Harmony Plant</a></li>
-<li><a href="#currency-master">Scarf</a></li>
-<li><a href="#protector">Solar Shields</a></li>
-<li><a href="#stargazer">Tatoo Stars</a></li>
-<li><a href="#looter">Thin Brain Tubes</a></li>
-<li><a href="#timelooper">Time Swapper</a></li>
-<li><a href="#ghostwalker">Vaporiffic Outfit</a></li>
-</ul>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; grid-auto-flow: dense;">
+  <ul>
+    <li><a href="#alchemist">Alchemist</a></li>
+    <li><a href="#angel">Angel</a></li>
+    <li><a href="#atom-master">Atom-master</a></li>
+    <li><a href="#briber">Briber</a></li>
+    <li><a href="#btcz-maxi">Btcz Maxi</a></li>
+    <li><a href="#cosmic-gambler">Cosmic Gambler</a></li>
+    <li><a href="#cosmoleaser">Cosmoleaser</a></li>
+    <li><a href="#crypto-tzar">Crypto Tzar</a></li>
+    <li><a href="#currency-master">Currency Master</a></li>
+    <li><a href="#destroyer">Destroyer</a></li>
+    <li><a href="#diplomat">Diplomat</a></li>
+    <li><a href="#drop-harvester">Drop Harvester</a></li>
+    <li><a href="#gen1-member">Gen1 member</a></li>
+    <li><a href="#ghostwalker">Ghostwalker</a></li>
+    <li><a href="#headhunter">Headhunter</a></li>
+    <li><a href="#librarian">Librarian</a></li>
+    <li><a href="#linker">Linker</a></li>
+    <li><a href="#luckystrike">Luckystrike</a></li>
+    <li><a href="#looter">Looter</a></li>
+  </ul>
+  <ul>
+    <li><a href="#mindsmoker">Mindsmoker</a></li>
+    <li><a href="#mimic">Mimic</a></li>
+    <li><a href="#navigator">Navigator</a></li>
+    <li><a href="#nodelord">Nodelord</a></li>
+    <li><a href="#orbital-survivor">Orbital Survivor</a></li>
+    <li><a href="#punisher">Phantom Punisher</a></li>
+    <li><a href="#portal-jumper">Portal Jumper</a></li>
+    <li><a href="#predictor">Predictor</a></li>
+    <li><a href="#protector">Protector</a></li>
+    <li><a href="#punisher">Punisher</a></li>
+    <li><a href="#reanimator">Reanimator</a></li>
+    <li><a href="#scanner">Scanner</a></li>
+    <li><a href="#set-1">Set 1</a></li>
+    <li><a href="#set-2">Set 2</a></li>
+    <li><a href="#stargazer">Stargazer</a></li>
+    <li><a href="#t-800">T-800</a></li>
+    <li><a href="#tia-master">Tia Master</a></li>
+    <li><a href="#timelooper">Timelooper</a></li>
+    <li><a href="#trapper">Trapper</a></li>
+    <li><a href="#upgrader">Upgrader</a></li>
+  </ul>
 </div>
 
-</div>
+
 
