@@ -614,7 +614,8 @@
 
 # Список атрибутов
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; grid-auto-flow: dense;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 0; grid-auto-flow: dense;">
+
 
 <div>
 <ul>
@@ -636,14 +637,13 @@
 <li><a href="#briber">Defi Puppet</a></li>
 <li><a href="#orbital-survivor">Donation Jar</a></li>
 <li><a href="#luckystrike">Emerald Pendant</a></li>
-</ul>
-</div>
-
-<div>
-<ul>
 <li><a href="#destroyer">Exoplanetary Devastation</a></li>
 <li><a href="#scanner">Focusers</a></li>
 <li><a href="#upgrader">Galactic Impulse</a></li>
+</ul>
+</div>
+<div>
+<ul>  
 <li><a href="#librarian">Galactic Lore</a></li>
 <li><a href="#navigator">Galactic Navigator</a></li>
 <li><a href="#looter">Gold Brain Tubes</a></li>
