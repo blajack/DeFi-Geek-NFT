@@ -20,6 +20,22 @@ To help new members navigate the server, the Master Geek has created three detai
 - Video 2: [NFT Attributes](https://youtu.be/0yUOt1LdksI)       
 - Video 3: [Airdrop](https://youtu.be/F2qTOG68bpM)        
 <br><br>
+# 🎉 A Gift for All Members of Our Community! 🎉
+
+In the new year, you can discover not only new projects and airdrops but also amazing new places on our planet! 
+
+**Until December 31, 2024**, everyone has the opportunity to choose any of the routes created by Svetlana Aramileva on the website [thearamilevs.com](https://www.thearamilevs.com/).
+- **All NFT owners** of the collections [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivors](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) can claim 1 route.
+- **Role** [**Navigator:**](#navigator) Gets the opportunity to choose 4 routes for independent travel.
+- **Role** [**Reanimator:**](#reanimator) Can request 4 routes in case of a server catastrophe.
+
+To select a suitable route, watch travel films on the [The Aramilevs](https://www.youtube.com/@thearamilevs) channel.
+
+To claim a route, open a ticket on the [server](https://discord.gg/Rk7VVUbHWX) and send your email and name. Any route by Svetlana Aramileva is available for selection.
+
+Exciting new opportunities lie ahead, but for now—enjoy this New Year’s gift! 🎁
+
+<br><br>
 # Invite Friends – Get Cashback!  
 - For every friend who mints an NFT from the collection [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf), you’ll receive **25% cashback** of the mint cost.  
 - If you have the role [Headhunter](#headhunter), your cashback increases to **50%**.  
@@ -176,6 +192,9 @@ Each user on the server can have multiple roles. Roles are assigned based on NFT
 # Alchemist
 Activated by Attribute: Cosmic Pump Potion
 ![Image](https://i.postimg.cc/bJ950mVD/Alchemist.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 
 Increases giveaway chances. If an **Alchemist** wins in the #main-giveaway, he receive 6 additional tickets for any giveaways in the following month. Also the **Alchemist** can select one additional role to receive the same 6 extra tickets for the next giveaways. 
 
