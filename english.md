@@ -34,7 +34,7 @@ To select a suitable route, watch travel films on the [The Aramilevs](https://ww
 To claim a route, open a ticket on the [server](https://discord.gg/Rk7VVUbHWX) and send your email and name. Any route by Svetlana Aramileva is available for selection.
 
 Exciting new opportunities lie ahead, but for now—enjoy this New Year’s gift! 🎁
-
+## 🎄🎄🎁🎄🎄
 <br><br>
 # Invite Friends – Get Cashback!  
 - For every friend who mints an NFT from the collection [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf), you’ll receive **25% cashback** of the mint cost.  
@@ -225,6 +225,8 @@ To receive an allocation in Eclipse, you need to win twice: once in our giveaway
 Activated by Attribute: Nimb
 ![Image](https://i.postimg.cc/9QRmGXr7/Angel.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 They support new NFT collections and receive rewards for their efforts, depending on the level of contribution. Owners of this role have access to a dedicated channel on the server: **#2-collection**.
 
 [[up](#list-of-roles)]
@@ -233,6 +235,8 @@ They support new NFT collections and receive rewards for their efforts, dependin
 # Atom-master
 Activated by Attribute: Atom
 ![Image](https://i.postimg.cc/pdKP60QV/Atom-Master.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 If this geek wins a giveaway, his reward in ATOM increases in 5 times. His closest counterpart is [**Tia-master**](#tia-master).
 
@@ -243,6 +247,8 @@ If this geek wins a giveaway, his reward in ATOM increases in 5 times. His close
 Activated by Attribute: Defi Puppet
 ![Image](https://i.postimg.cc/503bx6kZ/Briber.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Participates in advertising integrations on the server and acts as an ally to [**Destroyer**](#destroyer), avoiding his abilities. This role discusses and negotiates advertising integrations and, if approved by the Master Geek, receives 10% of their value.
 
 [[up](#list-of-roles)]
@@ -250,6 +256,8 @@ Participates in advertising integrations on the server and acts as an ally to [*
 # Btcz Maxi  
 Activated by the attribute: Bitcoin  
 ![Image](https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/_BTC.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 The Master Geek believes the "real BTC" is Zcash, which, like Bitcoin, has a limited supply of 21 million but provides enhanced privacy.  
 
@@ -270,6 +278,8 @@ If this role wins the #main-giveaway, the holder receives $20 in Zcash via a shi
 Activated by Attribute: Bluffing Cap
 ![Image](https://i.postimg.cc/4dZXkzw6/Bluffing-Cap.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Winning in poker tournaments increases the prize for this geek and grants additional bonuses in other games.
 
 [[up](#list-of-roles)]
@@ -278,6 +288,8 @@ Winning in poker tournaments increases the prize for this geek and grants additi
 # Cosmoleaser
 Activated by Attribute: Celestial Disk
 ![Image](https://i.postimg.cc/K8BXG11J/Celestial-Disk.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 Master Geek has created a special wallet containing various NFTs for airdrops. If this wallet receives any airdrops, the Cosmoleaser roleholders are entitled to a share of the rewards.
 
@@ -290,6 +302,8 @@ Additionally, Master Geek owns a collection of NFTs that can be used in various 
 Activated by Attribute: Crown
 ![Image](https://i.postimg.cc/8cj3qc8d/crown.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Holders of the Crown attribute gain a special role. If none of the **Crypto-tzar** won in the #main-giveaway, a separate lottery is held among **Crypto-tzar**s holders to determine the “Main Tzar.”
 
 The **Crypto-tzar** has the right to claim a "tithe"—10% of the winnings from those who succeed. This character is clever and independent, claiming their share without hesitation. This mechanic applies exclusively to Crown attribute holders and does not affect other server members.
@@ -300,6 +314,8 @@ The **Crypto-tzar** has the right to claim a "tithe"—10% of the winnings from 
 # Currency Master
 Activated by Attribute: Scarf и DeFi Geek Master
 ![Image](https://i.postimg.cc/PxRhLBT4/scarf-geekmaster.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 This role, symbolized by a golden scarf, represents value and community growth. Its main purpose is to attract new members to the server and guide them. In the second collection, this responsibility is carried out by a character with the DeFi Geek Master attribute.
 
@@ -312,6 +328,8 @@ By helping recruit and integrate newcomers, holders of this role earn a share of
 Activated by Attribute: Exoplanetary Devastation
 ![Image](https://i.postimg.cc/sgrzZPdt/destroyer.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 At the end of each month,hosts giveaways for owners of [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collections. If the **Destroyer** wins, hi disable all special abilities of other participants for the following month, except for [**Briber**](#briber) and [**Protector**](#protector). However, its action activates the abilities of the [**Looter**](#looter) and [**Reanimator**](#reanimator) roles.
 
 This destructive power cannot be triggered two months in a row. If the **Destroyer** wins again the next month, he only claim the prize without activating his ability.
@@ -322,6 +340,8 @@ This destructive power cannot be triggered two months in a row. If the **Destroy
 # Diplomat
 Activated by Attribute: Cigarette
 ![Image](https://i.postimg.cc/d1pPQrjN/diplomat.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 This role allows holders to share their referral links during the first six hours after a video is released on the [DeFi Geek YouTube]((https://www.youtube.com/@defigeek)) channel, enabling them to grow their network through referrals. The winner with this role will work closely with Master Geek throughout the month.
 
@@ -337,6 +357,8 @@ In the IDO lottery, the Diplomat can receive 50% of an IDO allocation. To do so,
 # Drop Harvester
 Activated by Attribute: Airdrop Cap
 ![Image](https://i.postimg.cc/GpDp13RC/airdrop-Cap.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 Master Geek has a special wallet designed to qualify for various token airdrops. If any airdrops are received by this wallet, holders of this role are entitled to a share of the rewards.
 
@@ -381,6 +403,8 @@ Provides an additional role:  **Indigo**.
 Activated by Attribute: Vaporiffic Outfit
 ![Image](https://i.postimg.cc/C1VxMyMf/dark.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 The rarest and most coveted role. The owner of this NFT can hold any number of NFTs from both collections in their wallet, thereby gaining their abilities. This role grants access to all chats and threads on the server.
 
 If **Ghostwalker** wins the main giveaway, the owner can choose any Geek (NFT) from their collection, and the abilities of that specific character will activate within the main giveaway. **Ghostwalker** also has the right to decline choosing anyone and simply claim their prize.
@@ -391,6 +415,8 @@ If **Ghostwalker** wins the main giveaway, the owner can choose any Geek (NFT) f
 Activated by Attribute: Mystical Relic
 ![Image](https://i.postimg.cc/MGwGq2pf/mystical-Relict.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Earns rewards for bringing new users to the [Discord server](https://discord.gg/Rk7VVUbHWX). For more details, check the **#headhunter** channel on the server.
 
 [[up](#list-of-roles)]
@@ -400,6 +426,8 @@ Earns rewards for bringing new users to the [Discord server](https://discord.gg/
 Activated by Attribute: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
 ![Image](https://i.postimg.cc/5NGYcRz8/Linker.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Increases the VPN limit to 60 GB and provides the opportunity to earn a share of the profits from VPN service sales.
 
 [[up](#list-of-roles)]
@@ -408,6 +436,8 @@ Increases the VPN limit to 60 GB and provides the opportunity to earn a share of
 # Librarian
 Activated by Attribute: Galactic Lore
 ![Image](https://i.postimg.cc/qR06b63Y/Librarian.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 Develops abilities for roles on the server. Approved proposals earn the **Librarian** a reward.
 
@@ -420,6 +450,8 @@ If the **Librarian** wins the main-giveaway, he gain the opportunity to have a o
 Activated by Attribute: Brain Tubes, Thin Brain Tubes, Gold Brain Tubes.
 ![Image](https://i.postimg.cc/x88ChvTs/looter.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 This role gains access to all head-related attributes from other Geek NFTs, but only if the [Destroyer](#destroyer) wins the main-giveaway.
 
 [[up](#list-of-roles)]
@@ -429,6 +461,8 @@ This role gains access to all head-related attributes from other Geek NFTs, but 
 Activated by Attribute: Luminous Red Diamond, Emerald Pendant
 ![Image](https://i.postimg.cc/vB5LcRXj/Red-Dimond-Emerald-Pendant.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Grants an extra chance in giveaways. **Luckystrike** receives 1 additional ticket for all giveaways, giving them a total of 2 tickets.
 
 [[up](#list-of-roles)]
@@ -436,6 +470,8 @@ Grants an extra chance in giveaways. **Luckystrike** receives 1 additional ticke
 # Mindsmoker
 Activated by Attribute: Headsmoke
 ![Image](https://i.postimg.cc/d3sd1ZQd/headsmoker.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 This role actively participates in all server activities, especially those related to NFTs. Initially, only 8 NFTs granted this role, giving holders priority access to any White List (WL).
 
@@ -452,6 +488,8 @@ The role has a "Karma" system. Before allocating WL spots, the Master Geek will 
 Activated by Attribute: ReFi Harmony Plant
 ![Image](https://i.postimg.cc/13fGwFGr/harmony-Plant.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 This role holds a special plant that allows it to copy any desired attribute from other geeks (except for the role of [Ghostwalker](#ghostwalker)) while keeping its own attributes unchanged.
 
 The plant becomes usable once a year, on April 20th (Bitcoin halving day). The owner must pre-select which attribute he want to copy in advance to acquire it on this date.
@@ -465,6 +503,8 @@ The copied attribute remains active for exactly one year. After this period, the
 Activated by Attribute: Galactic Navigator
 ![Image](https://i.postimg.cc/hGNpfrNm/galactic-Navigator.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 The role will be unlocked after the minting of the new Defi Geeks Survivors collection is complete.
 
 [[up](#list-of-roles)]
@@ -473,6 +513,8 @@ The role will be unlocked after the minting of the new Defi Geeks Survivors coll
 # Nodelord
 Activated by Attribute: Cyber Nerve.
 ![Image](https://i.postimg.cc/KjwVFbF6/Cyber-Nerve.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 Associated with blockchain nodes.
 
@@ -483,6 +525,8 @@ Associated with blockchain nodes.
 Activated by Attribute: Donation Jar
 ![Image](https://i.postimg.cc/xjNVxp9w/Donation-Jar.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Eligible for donations and unclaimed prizes. This geek may be battered by life but remains unbroken. If the [Discord server](https://discord.gg/Rk7VVUbHWX) receives donations, the holder of this role is eligible to claim part of them.
 
 [[up](#list-of-roles)]
@@ -492,6 +536,8 @@ Eligible for donations and unclaimed prizes. This geek may be battered by life b
 Activated by Attribute: Portal
 ![Image](https://i.postimg.cc/8cx1YxY5/Portal.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Gets free mints whenever the Master Geek launches NFTs outside Stargaze.
 
 [[up](#list-of-roles)]
@@ -500,6 +546,8 @@ Gets free mints whenever the Master Geek launches NFTs outside Stargaze.
 # Predictor
 Activated by Attribute: Holographic Essence
 ![Image](https://i.postimg.cc/9FNTmf6R/Holographic-Essence.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 The **Predictor** role is immune to traps set by the [**Trapper**](#trapper).
 
@@ -514,6 +562,8 @@ Additionally, if the Master Geek’s account wins an IDO ticket that fully belon
 Activated by Attribute: Solar Shields
 ![Image](https://i.postimg.cc/mZKzJnCC/Solar-Shields.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Immune to traps from [**Trapper**](#trapper) and destruction by [**Destroyer**](#destroyer).
 This role can also access White Hat Hacker services for free in case of wallet hacks.
 
@@ -523,6 +573,8 @@ This role can also access White Hat Hacker services for free in case of wallet h
 Activated by Attribute: Phantom Punisher
 ![Image](https://i.postimg.cc/xd99Bv6K/punisher.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 When winning a giveaway, this role takes rewards from [**Gen1 member**](#gen1-member).
 
 [[up](#list-of-roles)]
@@ -531,12 +583,16 @@ When winning a giveaway, this role takes rewards from [**Gen1 member**](#gen1-me
 Activated by Attribute: Alien Starborn Planet
 ![Image](https://i.postimg.cc/tJqRPhxq/Alien-Starborn-Planet.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 If [**Destroyer**](#destroyer) wins a giveaway, **Reanimator** gains access to all attributes and accessories held by other geeks' NFTs (except the [Defi Puppet](#briber) attribute).
 
 
 # Scanner
 Activated by Attribute: Focusers
 ![Image](https://i.postimg.cc/ryr7CdJc/Focusers.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 This role can detect and avoid traps set by [**Trapper**](#trapper).
 
@@ -561,6 +617,8 @@ Granted to all NFT holders from the second collection: [Defi Geeks Survivors](ht
 Activated by Attribute: Tatoo Stars
 ![Image](https://i.postimg.cc/59XQPJYf/stars.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 Occasionally has a chance to win a percentage of sales on Stargaze. These raffles are infrequent and separate from monthly giveaways.
 
 [[up](#list-of-roles)]
@@ -581,6 +639,8 @@ Key Features of the **T-800** role:
 Activated by Attribute: Celestia
 ![Image](https://i.postimg.cc/9Fv5HdQD/celestia.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 If this geek wins a giveaway, his reward in TIA increases in 3 times.
 The closest counterpart is [**Atom-master**](#atom-master).
 
@@ -591,6 +651,8 @@ The closest counterpart is [**Atom-master**](#atom-master).
 Activated by Attribute: Time Swapper
 ![Image](https://i.postimg.cc/T2b7ZZBX/Time-Swapper.jpg)
 
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
+
 If this geek wins a giveaway, he restart all giveaways again. The previous winners keep their prizes. The giveaway for [**Gen1 member**](#gen1-member) holders is also restarted.
 
 [[up](#list-of-roles)]
@@ -599,6 +661,8 @@ If this geek wins a giveaway, he restart all giveaways again. The previous winne
 # Trapper
 Activated by Attribute: Gravity Trap
 ![Image](https://i.postimg.cc/J0M3kdxs/gravity-Trap.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 After winning the main-giveaway, this role can select 3 roles on which to set his traps.. If one of the selected roles wins the next giveaway, Trapper claims their prize, but leaves their abilities intact.
 
@@ -614,6 +678,8 @@ Examples:
 # Upgrader
 Activated by Attribute: Galactic Impulse
 ![Image](https://i.postimg.cc/4ykLF55G/Galactic-Impulse.jpg)
+
+### 🎁 🎄 [A Gift Awaits You](#-a-gift-for-all-members-of-our-community-) Claim it by December 31! 🎄🎁
 
 Enhances the abilities of other attributes, boosting their potential.
 
