@@ -271,9 +271,14 @@ Additionally, Master Geek owns a collection of NFTs that can be used in various 
 Activated by Attribute: Crown
 ![Image](https://i.postimg.cc/8cj3qc8d/crown.jpg)
 
-Holders of the Crown attribute gain a special role. If none of the **Crypto-tzar** won in the #main-giveaway, a separate lottery is held among **Crypto-tzar**s holders to determine the “Main Tzar.”
+Holders of the Crown attribute gain the special role of **Crypto-tzar**. At the start of each month, a separate giveaway is held among **Crypto-tzar** holders to determine the **Czar of the Month**.
 
-The **Crypto-tzar** has the right to claim a "tithe"—10% of the winnings from those who succeed. This character is clever and independent, claiming their share without hesitation. This mechanic applies exclusively to Crown attribute holders and does not affect other server members.
+The **Czar of the Month** wields the right to demand a “tithe” — 10% of all winnings from DAO Holders (NFT Geeks owners) who win giveaways. However, the Czar does not touch the prizes won by [**Gen1 member**](#gen1-member).
+
+Additionally, the **Czar of the Month** selects a favored role, granting it access to giveaways it normally wouldn’t qualify for. The Master Geek will randomly add the favored role to eligible giveaways.
+
+If a participant with the Crypto-tzar role wins the main giveaway, they simply claim the prize outright. Their royal lineage exempts them from paying any tithe — not even to the Czar of the Month.
+
 
 [[up](#list-of-roles)]
 
