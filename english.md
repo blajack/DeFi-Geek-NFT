@@ -250,8 +250,16 @@ If this role wins the #main-giveaway, the holder receives $20 in Zcash via a shi
 # Cosmic Gambler
 Activated by Attribute: Bluffing Cap
 ![Image](https://i.postimg.cc/4dZXkzw6/Bluffing-Cap.jpg)
+Winning poker tournaments increases your prize:
+- 1st place — +3 TIA,
+- 2nd place — +2 TIA,
+- 3rd place — +1 TIA.
 
-Winning in poker tournaments increases the prize for this geek and grants additional bonuses in other games.
+Prize boosts apply to 2 tournaments per month only:
+- Tournaments with a 1 TIA entry fee.
+- Freeroll by the Geek.
+
+Additionally, it provides extra bonuses in blockchain games where the DeFi Geeks community actively participates.
 
 [[up](#list-of-roles)]
 
