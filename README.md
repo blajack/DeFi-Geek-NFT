@@ -354,8 +354,7 @@
 
 Эта роль для NFT из коллекции [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf). Она так же дает доступ к [Discord-серверу](https://discord.gg/Rk7VVUbHWX). В этой коллекции три вида NFT.
 
-Все выигрыши для этой роли облагаются налогом 10% в пользу роли [**Crypto-tzar**](#crypto-tzar).
-
+Все выигрыши для этой роли **Gen1** не облагаются налогом 10% в пользу роли [**Crypto-tzar**](#crypto-tzar).
 
 ### **Обычные (Common): 9 000 штук** 
 Дают возможность участия в лотереях.
