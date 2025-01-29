@@ -340,7 +340,7 @@ Master Geek has a special wallet designed to qualify for various token airdrops.
 # Gen1 member
 ![Image](https://i.postimg.cc/FsgPK09W/members.jpg)
 
-This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection. It grants access to most parts of the [Discord server](https://discord.gg/Rk7VVUbHWX) and eligibility to participate in certain giveaways. However, all giveaway winnings are subject to a 10% tax, which is allocated to the [**Crypto-tzar**](#crypto-tzar) role.
+This role for NFT holders from the [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection. It grants access to most parts of the [Discord server](https://discord.gg/Rk7VVUbHWX) and eligibility to participate in certain giveaways. All winnings for the Gen1 role are not subject to the 10% tax in favor of the [**Crypto-tzar**](#crypto-tzar) role.
 
 The collection includes three types of NFTs:
 
