@@ -517,7 +517,7 @@ This role can also access White Hat Hacker services for free in case of wallet h
 Activated by Attribute: Phantom Punisher
 ![Image](https://i.postimg.cc/xd99Bv6K/punisher.jpg)
 
-When winning a giveaway, this role takes rewards from [**Gen1 member**](#gen1-member).
+When winning the main giveaway at the end of the month, the **Punisher** takes rewards away from [**Gen1 member**](#gen1-member).
 
 [[up](#list-of-roles)]
 
