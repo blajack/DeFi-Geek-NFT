@@ -531,7 +531,7 @@
 Активируется атрибутом Phantom Punisher
 ![Image](https://i.postimg.cc/xd99Bv6K/punisher.jpg)
 
-При победе в лотерее отнимает награды у [**Gen1 member**](#gen1-member).
+При победе в главном розыгрыше в конце месяца отнимает награды у [**Gen1 member**](#gen1-member).
 
 [[вверх](#список-ролей)]
 
