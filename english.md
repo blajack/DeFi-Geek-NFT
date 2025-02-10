@@ -206,7 +206,15 @@ To receive an allocation in Eclipse, you need to win twice: once in our giveaway
 Activated by Attribute: Nimb
 ![Image](https://i.postimg.cc/9QRmGXr7/Angel.jpg)
 
-They support new NFT collections and receive rewards for their efforts, depending on the level of contribution. Owners of this role have access to a dedicated channel on the server: **#2-collection**.
+Holders of this role have access to a dedicated channel on the server: **“#3-collection”**.  
+
+This role mostly remains dormant, as it is only needed when new collections are created, and the **Master Geek** does this infrequently. However, **Angel** holders gain a unique experience in NFT collection creation and have the opportunity to earn a share of the revenue once a new **Geek** collection is fully minted.  
+
+For example, after the full mint of the second collection [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens), a **$1,000** reward was initially planned for **Angels**. However, due to a **server-wide cataclysm** (caused by a **[Destroyer](#destroyer)** winning the main giveaway), these funds were instead distributed among **[Looter](#looter)** holders. Nevertheless, those who actively contributed to the development of the second collection still received **$970** in rewards.  
+
+Thus, the main goal of **Angel** is to contribute ideas for **Geek’s** collections, actively participate in their promotion, and earn rewards for their efforts after a full mint.  
+
+
 
 [[up](#list-of-roles)]
 
