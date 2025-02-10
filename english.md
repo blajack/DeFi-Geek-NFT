@@ -265,7 +265,7 @@ Winning poker tournaments increases your prize:
 
 Prize boosts apply to 2 tournaments per month only:
 - Tournaments with a 1 TIA entry fee.
-- Freeroll by the Geek.
+- Freeroll by the Geek at the end of the month.
 
 Additionally, it provides extra bonuses in blockchain games where the DeFi Geeks community actively participates.
 
