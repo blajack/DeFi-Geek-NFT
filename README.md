@@ -24,7 +24,7 @@
     <ul>
       <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
       <li><strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
-      <li><strong>Discord ник:</strong> <a href="https://discord.gg/Rk7VVUbHWX">@defigeek3525</li>
+      <li><strong>Discord ник:</strong> <a href="https://discord.gg/Rk7VVUbHWX">@defigeek3525</a></li>
       <li><strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
     </ul>
   </div>
