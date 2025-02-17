@@ -14,7 +14,7 @@
 # Главный Гик  
 <div style="display: flex; align-items: flex-start;">
   <div style="width: 160px;">
-    <img src="https://github.com/blajack/DeFi-Geek-NFT/blob/main/assets/img/MainGeek.png" width="160">
+    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
   </div>
   <div style="margin-left: 16px;">
     <p><strong>Главный Гик</strong> – основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер...</p>
