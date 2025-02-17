@@ -12,12 +12,11 @@
 Владельцы первой коллекции уже получили бесплатно NFT от [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). Кроме того, каждый NFT из коллекции обладает уникальными атрибутами, которые расширяют возможности участия в ежемесячных лотереях (giveaway), например, позволяют получать часть наград с продажи VPN или увеличенный приз в покерных турнирах.
 <br><br>
 # Главный Гик  
-
 <div style="display: flex; align-items: flex-start;">
   <div style="width: 160px;">
     <img src="https://github.com/blajack/DeFi-Geek-NFT/blob/main/assets/img/MainGeek.png" width="160">
   </div>
-  <div>
+  <div style="margin-left: 16px;">
     <p><strong>Главный Гик</strong> – основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер...</p>
     <p><strong>В этом видео он рассказывает историю о себе:</strong><br>
     <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
@@ -29,11 +28,6 @@
     </ul>
   </div>
 </div>
-
-
-
-
-
 <br><br>
 
 # Discord-сервер
