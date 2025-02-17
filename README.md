@@ -13,26 +13,23 @@
 <br><br>
 # Главный Гик  
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="width: 160px;">
+    <img src="https://github.com/blajack/DeFi-Geek-NFT/blob/main/assets/img/MainGeek.png" width="160">
+  </div>
+  <div>
+    <p><strong>Главный Гик</strong> – основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер...</p>
+    <p><strong>В этом видео он рассказывает историю о себе:</strong><br>
+    <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
+    <h2>Официальные ссылки на профили Главного Гика:</h2>
+    <ul>
+      <li>🎥 <strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
+      <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
+      <li>💰 <strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
+    </ul>
+  </div>
+</div>
 
-<table border="0">
-  <tr>
-    <td valign="top" width="160px">
-      <img src="https://github.com/blajack/DeFi-Geek-NFT/blob/main/assets/img/MainGeek.png" width="160">
-    </td>
-    <td valign="top">
-      <p><strong>Главный Гик</strong> – основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. Регулярно выпускает новости о криптовалюте и блокчейне, анализируя важные события и тренды в индустрии.</p>
-      <p>Во многих описаниях ролей в этом документе упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.</p>
-      <p><strong>В этом видео он рассказывает историю о себе:</strong><br>
-      <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
-      <h2>Официальные ссылки на профили Главного Гика:</h2>
-      <ul>
-        <li>🎥 <strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
-        <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
-        <li>💰 <strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 
