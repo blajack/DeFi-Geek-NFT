@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
   </div>
   <div style="margin-left: 16px;">
-    Основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. <br> Когда далее в тексте упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.</p>
+    Основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. <br> Когда далее в тексте упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.
     <p><strong>В этом видео он рассказывает историю о себе:</strong>
     <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
     <h2>Официальные ссылки на профили Главного Гика:</h2>
