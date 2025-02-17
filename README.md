@@ -20,7 +20,7 @@
     Основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. <br> Когда далее в тексте упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.
     <p><strong>В этом видео он рассказывает историю о себе:</strong>
     <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
-    <h2>Официальные ссылки на профили Главного Гика:</h2>
+    <h2>Ссылки на профили:</h2>
     <ul>
       <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
       <li><strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
