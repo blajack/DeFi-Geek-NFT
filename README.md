@@ -17,15 +17,15 @@
     <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
   </div>
   <div style="margin-left: 16px;">
-    <p><strong>Главный Гик</strong> – основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер.</p>
-    <p>Когда на этой странице упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.</p>
-    <p><strong>В этом видео он рассказывает историю о себе:</strong><br>
+    Основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. <br> Когда далее в тексте упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.</p>
+    <p><strong>В этом видео он рассказывает историю о себе:</strong>
     <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Смотреть на YouTube</a></p>
     <h2>Официальные ссылки на профили Главного Гика:</h2>
     <ul>
-      <li>🎥 <strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
-      <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
-      <li>💰 <strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
+      <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
+      <li><strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
+      <li><strong>Discord ник:</strong> <a href="https://discord.gg/Rk7VVUbHWX">@defigeek3525</li>
+      <li><strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
     </ul>
   </div>
 </div>
