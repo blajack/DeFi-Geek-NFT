@@ -10,6 +10,26 @@ Owners of any [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya
 
 Owners of the first collection have already received free NFTs from [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). 
 Each NFT in the collection has unique attributes that enhance participation in monthly giveaways. For example, some attributes can enable sharing in VPN sales revenue or increase rewards in poker tournaments.
+<br><br>
+# Main Geek  
+<div style="display: flex; align-items: flex-start;">
+  <div style="width: 160px;">
+    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
+  </div>
+  <div style="margin-left: 16px;">
+    Founder of the <strong>DeFi Geeks</strong> community, crypto enthusiast, and YouTube blogger. <br> Whenever <strong>Main Geek</strong> is mentioned in the text, it refers to this person.
+    <p><strong>In this video, he shares his story:</strong>
+    <a href="https://www.youtube.com/watch?v=r1RnHlKrMIc">▶ Watch on YouTube</a></p>
+    <h2>Profile links:</h2>
+    <ul>
+      <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@defigeek">https://www.youtube.com/@defigeek</a></li>
+      <li><strong>Twitter:</strong> <a href="https://twitter.com/Defigeeek">https://twitter.com/Defigeeek</a></li>
+      <li><strong>Discord username:</strong> <a href="https://discord.gg/Rk7VVUbHWX">@defigeek3525</a></li>
+      <li><strong>DeBank:</strong> <a href="https://debank.com/profile/0x77c69844f6ec66c9de349a8bd101f6c9ed4a2436">https://debank.com/profile/0x77c...</a></li>
+    </ul>
+  </div>
+</div>
+<br><br>
 
 
 # Discord Server
