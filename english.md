@@ -13,8 +13,8 @@ Each NFT in the collection has unique attributes that enhance participation in m
 <br><br>
 # Main Geek  
 <div style="display: flex; align-items: flex-start;">
-  <div style="width: 160px;">
-    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
+  <div style="width: 159px;">
+    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/geek_ava.png width="159">
   </div>
   <div style="margin-left: 16px;">
     Founder of the <strong>DeFi Geeks</strong> community, crypto enthusiast, and YouTube blogger. <br> Whenever <strong>Main Geek</strong> is mentioned in the text, it refers to this person.
