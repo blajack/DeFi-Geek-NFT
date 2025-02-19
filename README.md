@@ -13,8 +13,8 @@
 <br><br>
 # Главный Гик  
 <div style="display: flex; align-items: flex-start;">
-  <div style="width: 160px;">
-    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/MainGeek.png" width="160">
+  <div style="width: 159px;">
+    <img src="https://raw.githubusercontent.com/blajack/DeFi-Geek-NFT/main/assets/img/geek_ava.png" width="159">
   </div>
   <div style="margin-left: 16px;">
     Основатель сообщества <strong>DeFi Geeks</strong>, криптоэнтузиаст и ютуб-блогер. <br> Когда далее в тексте упоминается <strong>Главный Гик</strong> – имеется в виду именно этот человек.
