@@ -309,7 +309,7 @@ Activated by Attribute: Crown
 
 Holders of the Crown attribute gain the special role of **Crypto-tzar**. At the start of each month, a separate giveaway is held among **Crypto-tzar** holders to determine the **Czar of the Month**.
 
-The **Czar of the Month** wields the right to demand a “tithe” — 10% of all winnings from DAO Holders (NFT Geeks owners) who win giveaways. However, the Czar does not touch the prizes won by [**Gen1 member**](#gen1-member).
+The **Czar of the Month** wields the right to demand a “tithe” — 10% of all winnings from DAO Holders (NFT Geeks owners) who win giveaways. However, the Czar does not touch the prizes won by [**Gen1 member**](#gen1-member). t the same time, the selected Ruler of the Month is **guaranteed a minimum of $20**. If the total tithe collected in a given month is less than this amount, the **Master Geek** personally covers the difference to ensure the Ruler receives at least $20.
 
 Additionally, the **Czar of the Month** selects a favored role, granting it access to giveaways it normally wouldn’t qualify for. The Master Geek will randomly add the favored role to eligible giveaways.
 
