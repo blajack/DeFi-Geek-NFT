@@ -7,7 +7,7 @@
 Коллекция [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и вторая [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) дают владельцу полный доступ к русскоязычному [Discord-серверу](https://discord.gg/Rk7VVUbHWX), основанному ютуб-блогером [Defi Geek](https://www.youtube.com/@defigeek), в сообществе его называют DeFi Geek или Главный Гик.
 
 > Коллекция [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) самая доступная и служит входным билетом на сервер. Дает роль [**Gen1 member**](#gen1-member) с ней вы будете в курсе самых свежих новостей, активностей и дропов. Так же участвуете в лотереях. В зависимости от редкости дает дополнительные [бонусы](#gen1-member). Является стартовым билетом, чтобы познакомиться с сообществом и за счет своей минимальной стоимости отсеивает неадекватов.
-Владелец любой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) получает бесплатный VPN от 30Gb каждый месяц, который отлично работает даже в Китае и России.
+Владелец любой коллекции [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) получает [50% скидку на VPN](https://discord.com/channels/1034274856201629726/1040051012045651988/1384528381676228608), который отлично работает даже в Китае и России.
 
 Владельцы первой коллекции уже получили бесплатно NFT от [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). Кроме того, каждый NFT из коллекции обладает уникальными атрибутами, которые расширяют возможности участия в ежемесячных лотереях (giveaway), например, позволяют получать часть наград с продажи VPN или увеличенный приз в покерных турнирах.
 <br><br>
@@ -431,7 +431,7 @@
 Активируется атрибутами: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
 ![Image](https://i.postimg.cc/5NGYcRz8/Linker.jpg)
 
-Увеличивает лимит VPN до 60 ГБ и возможность выигрывать часть прибыли с продаж VPN-сервиса.
+Дает возможность выигрывать часть прибыли с продаж VPN-сервиса.
 
 [[вверх](#список-ролей)]
 
