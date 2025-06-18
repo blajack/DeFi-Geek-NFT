@@ -6,7 +6,7 @@
 The [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) collection and the second [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collection, grant owners full access to a russian-speaking [Discord server](https://discord.gg/Rk7VVUbHWX), created by YouTuber [Defi Geek](https://www.youtube.com/@defigeek),known in the community as DeFi Geek or Master Geek.
 
 > The [DeFi Geeks Member Gen 1](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) collection is the most affordable collection. It provides the [**Gen1 member**](#gen1-member) role, which keeps you updated on the latest news, activities, and airdrops. It also allows you to participate in giveaways. Depending on rarity, it offers additional [bonuses](#gen1-member). This is a starting point for exploring the community, and its low cost helps filter out inappropriate users.
-Owners of any [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) NFT also get a free VPN (30GB/month), working well even in China or Russia.
+Owners of any [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) or [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) NFT also get a [50% discount on VPN](https://discord.com/channels/1034274856201629726/1040051012045651988/1384528381676228608), working well even in China or Russia.
 
 Owners of the first collection have already received free NFTs from [Expedition](https://www.stargaze.zone/m/expeditionpics/tokens). 
 Each NFT in the collection has unique attributes that enhance participation in monthly giveaways. For example, some attributes can enable sharing in VPN sales revenue or increase rewards in poker tournaments.
@@ -422,7 +422,7 @@ Earns rewards for bringing new users to the [Discord server](https://discord.gg/
 Activated by Attribute: Nebular Transmitter, Broken Nebular Transmitter, Link Controller, Antenna.
 ![Image](https://i.postimg.cc/5NGYcRz8/Linker.jpg)
 
-Increases the VPN limit to 60 GB and provides the opportunity to earn a share of the profits from VPN service sales.
+Provides the opportunity to earn a share of the profits from VPN service sales.
 
 [[up](#list-of-roles)]
 
