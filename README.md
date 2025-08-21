@@ -344,7 +344,7 @@
 Активируется атрибутом: Exoplanetary Devastation
 ![Image](https://i.postimg.cc/sgrzZPdt/destroyer.jpg)
 
-В конце каждого месяца на сервере проходят розыгрыши для владельцев [NFT Defi Geeks 1](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) . Если побеждает **Destroyer**, то он отключает все особые способности других участников на следующий месяц. **Destroyer** не трогает [**Briber**](#briber) и [**Protector**](#protector). Его разрушения активируют способности ролей [**Looter**](#looter) и [**Reanimator**](#reanimator).
+В конце каждого месяца на сервере проходят розыгрыши для владельцев [NFT Defi Geeks 1](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) и [Defi Geeks 2](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) . Если побеждает **Destroyer**, то он отключает все особые способности других участников на следующий месяц, а со способностью [**Upgrader**](#upgrader) - на два месяца. **Destroyer** не трогает [**Briber**](#briber) и [**Protector**](#protector). Его разрушения активируют способности ролей [**Looter**](#looter) и [**Reanimator**](#reanimator).
 
 Такая разрушительная сила не сможет срабатывать два месяца подряд. Если он выигрывает в следующем месяце снова, то получает только приз.
 
@@ -656,8 +656,10 @@
 
 Если эта способность срабатывает у [**Trapper**](#trapper), то вместо 3 ролей он выбирает 6.
 
-Если у [**Headhunter**](#headhunter), то он получит увеличенную награду.&nbsp;
+Если срабатывает у [**Destroyer**](#destroyer), то восстановление занимает 2 месяца, а не 1.
 
-Роль будет обновляться
+Если у [**Headhunter**](#headhunter), то он получит увеличенную награду.
+
+
 
 [[вверх](#список-ролей)]
