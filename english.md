@@ -334,7 +334,7 @@ By helping recruit and integrate newcomers, holders of this role earn a share of
 Activated by Attribute: Exoplanetary Devastation
 ![Image](https://i.postimg.cc/sgrzZPdt/destroyer.jpg)
 
-At the end of each month,hosts giveaways for owners of [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collections. If the **Destroyer** wins, hi disable all special abilities of other participants for the following month, except for [**Briber**](#briber) and [**Protector**](#protector). However, its action activates the abilities of the [**Looter**](#looter) and [**Reanimator**](#reanimator) roles.
+At the end of each month,hosts giveaways for owners of [Defi Geeks](https://www.stargaze.zone/m/stars1mg2hg6gppf78svvntya2065tvpuhfx6qf6zmv2z0n8hclpap7ycszq8v22/tokens) and [Defi Geeks Survivers](https://www.stargaze.zone/m/stars1lpgyddvhl4xvkcgmvfln05cl45q8s6wfx02fsg9cuwune5al6srsl687cr/tokens) collections. If the **Destroyer** wins, hi disable all special abilities of other participants for the following month, and with the [**Upgrader**](#upgrader) ability — for two months. **Destroyer** does not affect [**Briber**](#briber) and [**Protector**](#protector). However, its action activates the abilities of the [**Looter**](#looter) and [**Reanimator**](#reanimator) roles.
 
 This destructive power cannot be triggered two months in a row. If the **Destroyer** wins again the next month, he only claim the prize without activating his ability.
 
@@ -629,20 +629,17 @@ Examples:
 - If **Trapper** selects [**Diplomat**](#diplomat) and it wins, **Trapper** claims its financial prize, but leaves its abilities untouched.
 - **Trapper** cannot choose itself or [**Crypto-tzar**](#crypto-tzar), [**Predictor**](#predictor), [**Protector**](#protector) и [**Scanner**](#scanner).
 
-
 [[up](#list-of-roles)]
 
 
-# Upgrader
-Activated by Attribute: Galactic Impulse
-![Image](https://i.postimg.cc/4ykLF55G/Galactic-Impulse.jpg)
+# Upgrader  
+Activated by attribute: Galactic Impulse  
+![Image](https://i.postimg.cc/4ykLF55G/Galactic-Impulse.jpg)  
 
-Enhances the abilities of other attributes, boosting their potential.
+Enhances the abilities of the remaining attributes, increasing their potential.  
 
-For example:
-- If applied to [**Trapper**](#trapper), it allows selecting 6 roles instead of 3.
-- If applied to [**Headhunter**](#headhunter), the rewards increase significantly.
-
-This role will be updated.
+If this ability is triggered by [**Trapper**](#trapper), instead of 3 roles, he chooses 6.  
+If triggered by [**Destroyer**](#destroyer), it disables all special abilities of other participants for two months instead of one.  
+If triggered by [**Headhunter**](#headhunter), he receives an increased reward.  
 
 [[up](#list-of-roles)]
