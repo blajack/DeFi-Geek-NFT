@@ -311,7 +311,7 @@ Holders of the Crown attribute gain the special role of **Crypto-tzar**. At the 
 
 The **Czar of the Month** wields the right to demand a “tithe” — 10% of all winnings from DAO Holders (NFT Geeks owners) who win giveaways. However, the Czar does not touch the prizes won by [**Gen1 member**](#gen1-member). t the same time, the selected Ruler of the Month is **guaranteed a minimum of $20**. If the total tithe collected in a given month is less than this amount, the [**Master Geek**](#main-geek) personally covers the difference to ensure the Ruler receives at least $20.
 
-Additionally, the **Czar of the Month** selects a favored role, granting it access to giveaways it normally wouldn’t qualify for. The Master Geek will randomly add the favored role to eligible giveaways.
+Additionally, the **Czar of the Month** selects a favorite role, which gains access to giveaways it normally cannot participate in. The Master Geek will randomly include the favorite role in suitable giveaways. If the Tzar chooses a favorite role that he personally owns, then he cannot participate in the giveaway for that role. Only the other holders of that role are eligible to participate in those giveaways.
 
 If a participant with the Crypto-tzar role wins the main giveaway, they simply claim the prize outright. Their royal lineage exempts them from paying any tithe — not even to the Czar of the Month.
 
