@@ -279,9 +279,9 @@ If this role wins the #main-giveaway, the holder receives $20 in Zcash via a shi
 Activated by Attribute: Bluffing Cap
 ![Image](https://i.postimg.cc/4dZXkzw6/Bluffing-Cap.jpg)
 Winning poker tournaments increases your prize:
-- 1st place — +3 TIA,
-- 2nd place — +2 TIA,
-- 3rd place — +1 TIA.
+- 1st place — +10 TIA,
+- 2nd place — +5 TIA,
+- 3rd place — +2,5 TIA.
 
 Prize boosts apply to 2 tournaments per month only:
 - Tournaments with a 1 TIA entry fee.
